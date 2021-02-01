@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HJのBLOG</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-01T07:48:39.988Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>HJ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="http://example.com/2021/02/01/Hello-world/"/>
+    <id>http://example.com/2021/02/01/Hello-world/</id>
+    <published>2021-02-01T07:46:40.000Z</published>
+    <updated>2021-02-01T07:48:39.988Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">            <i class="fa fa-quote-left"></i>            <p>一杯福</p>            <i class="fa fa-quote-right"></i>          </blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+            &lt;i class=&quot;fa fa-quote-left&quot;&gt;&lt;/i&gt;
+            &lt;p&gt;一杯福&lt;/p&gt;
+
+            &lt;i class=&quot;fa fa-quot</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
