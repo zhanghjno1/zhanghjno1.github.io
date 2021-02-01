@@ -1242,7 +1242,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff60ba;
+  background: #bd6cff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2565,4 +2565,23 @@ hr {
 }
 .sub-menu .menu-item {
   display: inline-block;
+}
+body {
+  background: url("https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/plant-2004483_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.content-wrap {
+  opacity: 0.85;
+}
+.sidebar {
+  opacity: 0.85;
+}
+.header-inner {
+  background: rgba(255,255,255,0.85);
+}
+.popup {
+  opacity: 0.85;
 }
