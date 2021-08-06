@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HJのBLOG</title>
+        <link>https://zhanghjno1.github.io/</link>
+        <description>HJの自留地</description>
+        <generator>Hugo 0.87.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>ybf486@gmail.com (zhanghj)</managingEditor>
+        
+        
+            <webMaster>ybf486@gmail.com (zhanghj)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Fri, 06 Aug 2021 23:00:28 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://zhanghjno1.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Markdown笔记</title>
+                <link>https://zhanghjno1.github.io/posts/markdown/</link>
+                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/markdown/</guid>
+                <pubDate>Fri, 06 Aug 2021 18:55:05 &#43;0800</pubDate>
+                
+                    <author>ybf486@gmail.com (zhanghj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h4 id=&#34;标题headers&#34;&gt;标题（Headers）&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# 一级标题
+&lt;/span&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## 二级标题
+&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;### 三级标题
+&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;#### 四级标题
+&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;##### 五级标题
+&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;###### 六级标题
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;字体emphasis&#34;&gt;字体（Emphasis）&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;*斜体*
+&lt;span class=&#34;ge&#34;&gt;_也是斜体_&lt;/span&gt;
+&lt;span class=&#34;gs&#34;&gt;**粗体**&lt;/span&gt;
+&lt;span class=&#34;gs&#34;&gt;__也是粗体__&lt;/span&gt;
+&lt;span class=&#34;ge&#34;&gt;**&lt;/span&gt;*又粗又斜体***
+&lt;span class=&#34;gs&#34;&gt;___也是又粗又斜体___&lt;/span&gt;
+&lt;span class=&#34;gd&#34;&gt;~~删除线~~&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;
+&lt;em&gt;也是斜体&lt;/em&gt;
+&lt;strong&gt;粗体&lt;/strong&gt;
+&lt;strong&gt;也是粗体&lt;/strong&gt;
+&lt;em&gt;&lt;strong&gt;又粗又斜体&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;也是又粗又斜体&lt;/strong&gt;&lt;/em&gt;
+&lt;del&gt;删除线&lt;/del&gt;&lt;/p&gt;
+&lt;h4 id=&#34;变量variables&#34;&gt;变量（Variables）&lt;/h4&gt;
+&lt;p&gt;Markdown 中支持&lt;strong&gt;变量定义&lt;/strong&gt;和&lt;strong&gt;变量引用&lt;/strong&gt;，且支持&lt;strong&gt;中文&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;变量定义：&lt;code&gt;[key]: value&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;变量引用：&lt;code&gt;[key]&lt;/code&gt;、&lt;code&gt;[text][key]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;定义链接：[YouTube]: http://www.youtube.com
+引用链接：
+key引用：[YouTube]
+value引用：[文本][YouTube]
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;图像images&#34;&gt;图像（Images）&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;图片名字&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/rick.jpg&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/12.gif&#34; alt=&#34;图片名字&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;链接links&#34;&gt;链接（Links）&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;YouTube&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://youtube.com&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://youtube.com&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;锚点anchors&#34;&gt;锚点（Anchors）&lt;/h4&gt;
+&lt;p&gt;格式：&lt;code&gt;[锚点文本](#锚点链接)&lt;/code&gt;。需要注意如下几点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;欲定位的锚点链接必须是标题，即&lt;code&gt;#&lt;/code&gt;、&lt;code&gt;###&lt;/code&gt;等定义的6级标题；&lt;/li&gt;
+&lt;li&gt;不管标题大小写，锚点均为小写；&lt;/li&gt;
+&lt;li&gt;可以使用中文做锚点，中文锚点需要省略&lt;code&gt;（&lt;/code&gt;、&lt;code&gt;、&lt;/code&gt;等中文标点符号。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;标题：#### 锚点（Anchors）
+锚点：[锚点（Anchors）](####锚点anchors)
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;引用blockquotes&#34;&gt;引用（Blockquotes）&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;一级文本引用
+&lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;&lt;/span&gt;&amp;gt;&amp;gt; 二级文本引用
+
+引用中嵌套无序列表
+
+&amp;gt;&amp;gt; * 这是第一项
+&amp;gt;&amp;gt; * 这是第二项
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;一级文本引用&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;二级文本引用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;引用中嵌套无序列表&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这是第一项&lt;/li&gt;
+&lt;li&gt;这是第二项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;代码code&#34;&gt;代码（Code）&lt;/h4&gt;
+&lt;p&gt;Markdown中代码格式化可以通过三种方式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;行内式：通过一对 ` 包裹单行代码实现；&lt;/li&gt;
+&lt;li&gt;代码块：通过一对 ``` 包裹实现，可以指定代码的编程语言，如&lt;code&gt;Python&lt;/code&gt;、&lt;code&gt;JavaScript&lt;/code&gt;、&lt;code&gt;Rust&lt;/code&gt;等，且支持&lt;strong&gt;语法高亮&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;缩进式：通过缩进 &lt;code&gt;&amp;gt;=&lt;/code&gt; 4空格实现，部分支持语法高亮。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;行内式代码：`print(10086)`
+代码块：
+​```C++
+&lt;span class=&#34;gh&#34;&gt;#include&amp;lt;iostream&amp;gt;
+&lt;/span&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;using namespace std;
+int main()
+​```
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;行内式代码：&lt;code&gt;print(10086)&lt;/code&gt;
+代码块：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-C++&#34; data-lang=&#34;C++&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt;&lt;span class=&#34;cpf&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;namespace&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;注释comment&#34;&gt;注释（Comment）&lt;/h4&gt;
+&lt;p&gt;Markdown中注释可以通过二种方式实现：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML注释：用&lt;code&gt;&amp;lt;!--...--&amp;gt;&lt;/code&gt;标签来实现注释；&lt;/li&gt;
+&lt;li&gt;HTML标签：用HTML标签显示属性&lt;code&gt;style=&#39;display: none&#39;&lt;/code&gt;标签来实现注释；&lt;/li&gt;
+&lt;li&gt;HACK方法：用&lt;code&gt;Markdown解析原理&lt;/code&gt;来实现注释。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;列表lists&#34;&gt;列表（Lists）&lt;/h4&gt;
+&lt;p&gt;列表分为&lt;code&gt;无序列表&lt;/code&gt;、&lt;code&gt;有序列表&lt;/code&gt;，以及&lt;code&gt;任务列表&lt;/code&gt;。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; 第一节
+&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; 第二节
+  &lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; 第一条
+  &lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; 第二条
+  
+
+&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 1111
+&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 22222
+   &lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; qqqq
+   &lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; ee
+  
+&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; 慢跑5km
+&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; 俯卧撑
+&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; 已完成
+&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; 未完成
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;第一节&lt;/li&gt;
+&lt;li&gt;第二节
+&lt;ul&gt;
+&lt;li&gt;第一条&lt;/li&gt;
+&lt;li&gt;第二条&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;1111&lt;/li&gt;
+&lt;li&gt;22222
+&lt;ol&gt;
+&lt;li&gt;qqqq&lt;/li&gt;
+&lt;li&gt;ee&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 慢跑5km&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 俯卧撑&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 已完成&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 未完成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;表格tables&#34;&gt;表格（Tables）&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;通过字符组合单元格，用管道分隔符 &lt;code&gt;|&lt;/code&gt; 来分割单元格；无需上下对齐。&lt;/li&gt;
+&lt;li&gt;通过连字符 &lt;code&gt;-&lt;/code&gt; 来声明表头，仅第一行底部需要。&lt;/li&gt;
+&lt;li&gt;通常情况下，表格默认&lt;strong&gt;居中&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;表头一 | 表头二 | 表头三
+--- | --- | ---
+一行单元格一 | 一行单元格二 | 一行单元格三
+二行内容一 | 二行内容二 | 二行内容三
+三行描述部分一 | 三行描述部分二 | 三行描述部分三
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;表头一&lt;/th&gt;
+&lt;th&gt;表头二&lt;/th&gt;
+&lt;th&gt;表头三&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一行单元格一&lt;/td&gt;
+&lt;td&gt;一行单元格二&lt;/td&gt;
+&lt;td&gt;一行单元格三&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;二行内容一&lt;/td&gt;
+&lt;td&gt;二行内容二&lt;/td&gt;
+&lt;td&gt;二行内容三&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;三行描述部分一&lt;/td&gt;
+&lt;td&gt;三行描述部分二&lt;/td&gt;
+&lt;td&gt;三行描述部分三&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://zhanghjno1.github.io/tags/note/">note</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Hello_world</title>
+                <link>https://zhanghjno1.github.io/posts/hello_world/</link>
+                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/hello_world/</guid>
+                <pubDate>Thu, 05 Aug 2021 01:04:34 &#43;0800</pubDate>
+                
+                    <author>ybf486@gmail.com (zhanghj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;strong&gt;Hello world!&lt;/strong&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
