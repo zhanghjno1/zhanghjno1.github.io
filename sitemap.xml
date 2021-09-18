@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhanghjno1.github.io/tags/algorithm/</loc>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanghjno1.github.io/posts/basic_at/</loc>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
+  </url><url>
     <loc>https://zhanghjno1.github.io/categories/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/categories/note/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/posts/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
-  </url><url>
-    <loc>https://zhanghjno1.github.io/tags/reading/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/tags/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
-    <loc>https://zhanghjno1.github.io/posts/permanent_record/</loc>
-    <lastmod>2021-09-14T21:04:12+08:00</lastmod>
+    <loc>https://zhanghjno1.github.io/tags/template/</loc>
+    <lastmod>2021-09-18T23:38:27+08:00</lastmod>
   </url><url>
-    <loc>https://zhanghjno1.github.io/posts/full_speed_ahead/</loc>
-    <lastmod>2021-09-11T20:48:44+08:00</lastmod>
+    <loc>https://zhanghjno1.github.io/posts/distinguish_ti/</loc>
+    <lastmod>2021-09-18T23:35:04+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/categories/life/</loc>
+    <lastmod>2021-09-18T23:35:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanghjno1.github.io/tags/reading/</loc>
+    <lastmod>2021-09-16T18:21:02+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanghjno1.github.io/posts/permanent_record/</loc>
+    <lastmod>2021-09-16T18:21:02+08:00</lastmod>
+  </url><url>
+    <loc>https://zhanghjno1.github.io/posts/full_speed_ahead/</loc>
     <lastmod>2021-09-11T20:48:44+08:00</lastmod>
   </url><url>
     <loc>https://zhanghjno1.github.io/posts/xzfjjxjy/</loc>
