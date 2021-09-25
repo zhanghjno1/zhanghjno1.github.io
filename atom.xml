@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2021-09-19T23:07:06&#43;08:00</updated>
+    <updated>2021-09-25T22:45:58&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Home is forever harbor</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/home/" />
+            <id>https://zhanghjno1.github.io/posts/home/</id>
+            <updated>2021-09-25T22:45:45&#43;08:00</updated>
+            <published>2021-09-25T22:44:32&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Home is forever harbor 近期有很多令人心烦的事，但随着中秋节的回家几日，心里那团躁动的的火也开始安静……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;Home is forever harbor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;近期有很多令人心烦的事，但随着中秋节的回家几日，心里那团躁动的的火也开始安静下来。没有吵架没有争执，有的只是平静与温馨，更多的是想一直陪在父母身边。可能这也是一种没有长大吧，看着父母仍在十分辛苦的努力过好每天，我没有什么理由退缩，&lt;strong&gt;only keep working hard&lt;/strong&gt;。回家后也去看望了姥姥姥爷，在他们这个年纪，拿什么礼品都不介意的，只要多回去陪陪他们，哪怕是空手，他们仍十分开心。家是永远的港湾，无论在外面是何种面貌，回家之后总能变得十分放松。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/249613645668431535.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/724389103662821145.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在家待得这几天也像明白了一些事情，有些事情不可以强求，在自己力所能及的范围努力，分清主次，简而言之就是，明白自己这个阶段最重要的是什么！&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Improve yourself&lt;/strong&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Stl</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/stl/" />
