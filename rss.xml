@@ -23,10 +23,44 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 01 Oct 2021 17:27:25 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 00:06:54 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zhanghjno1.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Effort</title>
+                <link>https://zhanghjno1.github.io/posts/effort/</link>
+                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/effort/</guid>
+                <pubDate>Tue, 05 Oct 2021 00:02:17 &#43;0800</pubDate>
+                
+                    <author>ybf486@gmail.com (zhanghj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=1811909303&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;天气渐凉，今天可能是最近最冷的一天吧，明显感觉到公园里人熟骤降，夏日基本跑俩步就得减速，到了今天的加上我公园不超十人，有种别样的感觉。这周的心情也是跌宕起伏的，但所幸最后结果都是相对来说比较美好的。学习情况的话，还需努力，越到后期越应该沉下心来...锻炼身体的话是完成的最好的，5km每天都跑，俯卧撑每天都100，但温度再下降的话就不打算出去了，在家里做些运动就行了，主要原因是后期想把更多精力放到学习上，等考试结束后再做进一步规划！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加油！&lt;/strong&gt;&lt;/p&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Search and Graph Theory</title>
