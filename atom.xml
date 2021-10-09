@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2021-10-08T22:40:03&#43;08:00</updated>
+    <updated>2021-10-10T00:25:36&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,44 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">After 10 1</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/after_10_1/" />
+            <id>https://zhanghjno1.github.io/posts/after_10_1/</id>
+            <updated>2021-10-10T00:25:25&#43;08:00</updated>
+            <published>2021-10-10T00:24:16&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;After 10 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这周很冷，有俩天没跑，其余时间照常，运动完成度99%。&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;After 10 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这周很冷，有俩天没跑，其余时间照常，运动完成度99%。&lt;/p&gt;
+&lt;p&gt;学习任务80%，还需努力，距离上场时间还有俩个月，接下来的每一天都很重要。看了很多大佬的博客，优秀的人首先都对自己很了解，有着明确的规划和很强的执行力！每个人都应该了解自己，了解自己擅长什么不擅长什么，面对最真实的自己，做最合理的规划，并坚持下去。输入和输出都很重要，如果把输入的可以输出，也就理解了。现在是5月10日，凌晨12:16，就这些吧，希望自己可以利用好时间！&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Mathematical knowledge</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/acwing_math/" />
