@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2021-10-10T00:25:36&#43;08:00</updated>
+    <updated>2021-10-17T09:06:35&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,50 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">101116</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/101116/" />
+            <id>https://zhanghjno1.github.io/posts/101116/</id>
+            <updated>2021-10-17T09:05:32&#43;08:00</updated>
+            <published>2021-10-17T09:04:04&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/875275978671996932.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/875275978671996932.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;时间很快，这周任务完成度80%&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 每天慢跑&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 每天俯卧撑100&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 公共课与专业课程学习&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 其他&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;温度下降特别快，穿的有些单薄了，10-16这天差点冻死在路上。还有万恶的智齿导致牙龈发炎，疼死，右半脸都肉眼可见的肿（毫不夸张），希望过俩天能好，如果不能好的话就要铲除掉它了！&lt;/p&gt;
+&lt;p&gt;下周继续努力，利用好时间！&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">After 10 1</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/after_10_1/" />
@@ -44,7 +88,7 @@
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -910,7 +954,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -2827,7 +2871,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -3748,7 +3792,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -3847,7 +3891,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -6108,7 +6152,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -6152,7 +6196,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -6722,7 +6766,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -7618,7 +7662,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -7663,7 +7707,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
@@ -8062,7 +8106,7 @@ int main()
                             
                             
                             
-                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="“Life&#34;" label="“Life&#34;" />
                             
                         
                     
