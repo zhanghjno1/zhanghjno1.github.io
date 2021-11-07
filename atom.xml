@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2021-10-31T02:31:14&#43;08:00</updated>
+    <updated>2021-11-07T21:14:03&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -17,17 +17,56 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
         <entry>
+            <title type="text">Cool down</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/cool_down/" />
+            <id>https://zhanghjno1.github.io/posts/cool_down/</id>
+            <updated>2021-11-07T21:13:21&#43;08:00</updated>
+            <published>2021-11-07T21:10:29&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">同志仍需努力 一觉醒来下雪了，是今年的第一场雪，基本都是独自在屋子里待一天，学习，吃饭……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;同志仍需努力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一觉醒来下雪了，是今年的第一场雪，基本都是独自在屋子里待一天，学习，吃饭，娱乐。运动的话每天就是俯卧撑，距离考试不足俩个月，下一周按部就班再接再厉，就是头发感觉更少了，,,ԾㅂԾ,,有点难受，hh，买了霸王（虽然自我感觉没什么用），但也算是安慰自己吧。下雪后的第一感觉不是美景，而是&lt;strong&gt;寒冷&lt;/strong&gt;，温度骤降，最低达到了零下十几度，加上疫情去不了图书馆，最后这段时间就准备在家里学习了。作息的话这周比较正常，没有失眠~&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;希望下一周状态更加好吧！&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Insomnia is a disease</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/insomnia_is_a_disease/" />
             <id>https://zhanghjno1.github.io/posts/insomnia_is_a_disease/</id>
-            <updated>2021-10-31T02:31:07&#43;08:00</updated>
+            <updated>2021-11-07T21:13:42&#43;08:00</updated>
             <published>2021-10-31T02:30:30&#43;08:00</published>
             <author>
                     <name>zhanghj</name>
                     <uri>https://zhanghjno1.github.io/</uri>
                     <email>ybf486@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">1025出去与同学溜达了一圈，吃了心心念念的臭豆腐和热量爆炸的MacDonald，然……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/688092595520909692.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;……</summary>
             
                 <content type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/688092595520909692.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;1025出去与同学溜达了一圈，吃了心心念念的臭豆腐和热量爆炸的MacDonald，然后，没有跑步~但俯卧撑做了，还稍微心里踏实点。决定1026跑个10km弥补弥补，跑到总计500km时便不跑了，考完试再做下一步决定。&lt;/p&gt;
@@ -41,8 +80,7 @@
 &lt;hr&gt;
 &lt;p&gt;1029跑完最后一次10km，准备停跑了，正好跑够500km，等考完试再做下一步打算~&lt;/p&gt;
 &lt;p&gt;1031凌晨2：19，女孩真是奇怪的生物，不谈恋爱屁事没有...由于1030晚上心情不好，还在电脑桌前。正好今天UFC267，有比较期待的李景亮和奇马耶夫一场，看完再睡。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分清主次，提升自己&lt;/strong&gt;&lt;/p&gt;
-</content>
+&lt;p&gt;&lt;strong&gt;分清主次，提升自己&lt;/strong&gt;&lt;/p&gt;</content>
             
             
             
