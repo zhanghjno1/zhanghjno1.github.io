@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2022-01-16T22:58:17&#43;08:00</updated>
+    <updated>2022-01-23T20:55:02&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,51 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Keep moving</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/keep_moving/" />
+            <id>https://zhanghjno1.github.io/posts/keep_moving/</id>
+            <updated>2022-01-23T20:54:30&#43;08:00</updated>
+            <published>2022-01-23T20:53:51&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;继续努力&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;继续努力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;17，18站了俩天岗，18号下午赴约去喝酒~以为自己酒量很好，结果俩人喝了一瓶白酒加一罐啤酒就有点晕晕乎乎了。依稀记得那天吃饭老是去厕所，刚开始还好很清醒。后来就有点晕了。回到家后复盘自己那天的表现，觉得原因有二，一是喝的快，二是光顾喝不吃菜，哈哈哈。我记得自己之前不是这点量啊，可能是长时间不喝的原因吧。那天所有人都对我很照顾，早早回家收拾自己，与瑞婷一起去目的地，丰盛的饭菜与周到的招待，随和的姐姐姐夫，十分可爱的小女孩，那天很放松也很充实。吃完饭后自己与他们一块回家，其实自己当时有点迷糊，谢谢瑞婷的照顾，那天十分关心我。回家之后喝了点水便睡觉了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/841363217938708894.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;19号早早便起来了，继续站岗，并决定20号回家。20号自己也早早起来，收拾好自己的东西，简单吃了点便向车站出发，经过了几个小时回到了家。这一天基本在路上，回家后啥都没干呆了半天，第二天开始决定找点事情做。之前的学习宏伟蓝图要实施，预期是每天学会算法，每天学会Linux，每天背单词。结果自己的进度与预期大相径庭，单词倒是每天都有背，另外俩个就不一样了...
+22，23俩天下雪，回来后的第一场雪~进度依旧很慢，但好在每天都在进步。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/518370531391140103.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下周希望自己能够完成自己预期任务更好一些吧。不过下周好像就要过年了，自己下周也有可能会出门去，具体看下周什么情况吧~&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最重要的是：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;控制好自己的情绪！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;是自己最重要的任务，也是之后一直的任务之一&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Experience life</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/experience_life/" />
