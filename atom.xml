@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2022-02-14T16:19:39&#43;08:00</updated>
+    <updated>2022-02-20T17:41:42&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,45 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Epidemic resurges</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/epidemic_resurges/" />
+            <id>https://zhanghjno1.github.io/posts/epidemic_resurges/</id>
+            <updated>2022-02-20T17:41:34&#43;08:00</updated>
+            <published>2022-02-20T17:40:56&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;疫情再起&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;疫情再起&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;突然起来的疫情打乱这周的计划，瑞婷本是在19号这天出发，我也准备在这天与瑞婷见面顺便送她，但疫情的出现打乱了人们的计划。我们这成为了中风险地区，甚至在离我们不远的一个地方变成了省内唯一一个高风险地区，俩次核酸检测，但好在我们这没有。但第一次自己离新冠如此近的距离，世事无常，珍惜当下！&lt;/p&gt;
+&lt;p&gt;这周仍坚持背单词，但学习的部分仍有些许潦草，锻炼也是，马马虎虎。原因大部分是自己自制力欠缺，不够自律，可能也有一部分原因是马上出分了吧。明天上午十点出分，自己说实话心里没底，但不论结果如何，自己应有自己的规划，看结果来决定接下来的方向。这周的娱乐还是影音，个人觉得《人世间》很不错。还与好友一起玩了双人成行，俩天玩了将近10小时！自己老早前就想玩，但更想一起玩的对象是瑞婷，哈哈哈，这次也算是如愿了一半吧，下次有时间和其他条件一定要和瑞婷体验体验。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;加油&lt;/strong&gt;&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Work hard next week</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/work_hard_next_week/" />
