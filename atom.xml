@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2022-02-20T17:41:42&#43;08:00</updated>
+    <updated>2022-02-27T12:45:04&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,47 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Absurd result</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/absurd_result/" />
+            <id>https://zhanghjno1.github.io/posts/absurd_result/</id>
+            <updated>2022-02-27T12:44:56&#43;08:00</updated>
+            <published>2022-02-27T12:44:10&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;难以接受的成绩&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;难以接受的成绩&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;21号上午十点公布成绩，这天我妈天还没亮便早早起来折腾了，自然而然我也醒了。起床后简单吃了点早点便去做核酸检测，午饭也吃的特别早，不到十点便吃午饭了，我妈也是很重视这次成绩，午饭过后正好快到十点，十分激动地来到电脑前，登陆网页查分。起初进不去，后来在手机刺激版查分链接终于进去了，从上往下，政治比去年高，英语比去年高，数学和去年一样，专业课傻眼了，24...这个成绩我不相信，说实话这四门我唯一觉得答得比较好的就是专业课，但这个成绩我郁闷了，去年都64 ，今年复习一年就考了24，我不理解，肯定是哪个步骤出问题了，立刻打开官网查找复核方式！蛋疼的是，官网通知复核是从1号才开始，真墨迹，但1号勉强也可以接受，最不舒服的是9号才出结果...21这天五味杂陈，自己也付出了，努力了，但专业课实在不是这分数，就是去年的分甚至比去年低点我都能接受，24分我是没料到的。现在对于这所院校已经没什么好感了，9号看复核结果吧，到时候再做决定。&lt;/p&gt;
+&lt;p&gt;查分后告诉瑞婷，她也不相信，朋友们相继来问成绩，有真心的有对分数好奇的，心情很复杂。瑞婷下午的陪伴很感动，自己也没有表现太多的失落，成绩已经出来，现在只有等复核，毫无办法，复核结果出来再做下一步规划。&lt;/p&gt;
+&lt;p&gt;由于疫情瑞婷也在家待着，本以为等疫情过去可能才返校，突然发了通知，可以返校。虽然疫情我们彼此也见不上，但老感觉就在身边。现在突然返校，顿时觉得又一段时间不好相见了，有些不舍，但坚持，彼此做好自己的事！&lt;/p&gt;
+&lt;p&gt;现在成绩已经公布，虽然不服气，但耐心点，等待复核，之后再做定夺。这也是一种磨练，不管结果如何，从容面对，一直上进。这几年感觉很虚幻，很多大事发生，科比坠机、持续几年不知何时结束的疫情、澳洲大火、全球变暖、河南洪灾、这几天发生的俄乌战争...活好当下，让每一天都有意义一些，自己的心态要好些，等多年之后的自己回首往事看待这次的分数可能也就无奈一笑吧，哈哈哈，谁能知道以后的事情~&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;让每一天有意义&lt;/strong&gt;&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Epidemic resurges</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/epidemic_resurges/" />
