@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2022-03-06T16:04:47&#43;08:00</updated>
+    <updated>2022-03-13T22:54:20&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,52 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Moaning</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/moaning/" />
+            <id>https://zhanghjno1.github.io/posts/moaning/</id>
+            <updated>2022-03-13T22:54:01&#43;08:00</updated>
+            <published>2022-03-13T22:52:30&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;有病呻吟&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;有病呻吟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本以为九号复核才出结果，结果八号就打来电话说专业课成绩有误，由24改为74，但内心还是不能接受，自己的估分没这么低，还是不能接受，没有办法。&lt;/p&gt;
+&lt;p&gt;总分加了50分，自己大致估摸了一下，可能在线边缘，虽然嘴上说着好好准备复试，但行动却没有跟上。&lt;/p&gt;
+&lt;p&gt;九号这天自己不知什么原因感冒了，头疼腰酸，浑身难受。半夜翻来覆去睡不着，第二天吃了药，还是不舒服，下午锻炼了一会，出了出汗，在电脑前一坐便是一天。令人心头一暖的事，这天我爸下午回家的时候给我带了一个橘子罐头，自己只是随口一说，下午回来的时候他便带回来了。可能这也为自己的康复加了一些buff吧。&lt;/p&gt;
+&lt;p&gt;单调枯燥的几天，在11号下午国家线出来了，a区273，b区263，与去年比涨了10分，没啥说的，物竞天择。自己的分数也比国家线高不了多少，自己心里也没底，效率不高，天天一晃一天过去了。作为一个看客看着群里的人水着群，看到一个兄弟也是复核专业课成绩，他更离谱，是由4改为74，这个74让我联想了一些，但兴许是我多想了吧，真是无奈。距离出复试名单还有几天，自己应该也有机会进复试，这些天希望自己可以效率高些准备准备复试吧。&lt;/p&gt;
+&lt;p&gt;这周闲来无事想起了自己几年前买的树莓派3b+，不知道该用它干些什么，先装个系统再说吧，官方的系统不怎么喜欢，安装了Ubuntu20.04，之后要干什么再论吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/555709571750469050.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;11号晚上和瑞婷闹了误会，是我最近有些敏感了吧，还是没肚量，容不下事情，多大点事情天天惦记，加油，这些都是磨练，让自己心智成长。成熟一些，理性一些，天将降大任于斯人也，必先苦其心志~&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/770168317605606w011.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;若干年后自己回忆这些可能又有另一番感悟吧&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;提升自己&lt;/strong&gt;&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Calm down</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/calm_down/" />
