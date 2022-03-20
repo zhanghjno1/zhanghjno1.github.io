@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html">HJの自留地</subtitle>
-    <updated>2022-03-13T22:54:20&#43;08:00</updated>
+    <updated>2022-03-20T21:08:41&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,43 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">Reorient</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/reorient/" />
+            <id>https://zhanghjno1.github.io/posts/reorient/</id>
+            <updated>2022-03-20T21:08:31&#43;08:00</updated>
+            <published>2022-03-20T21:07:16&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;重找方向&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;重找方向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;心情起起伏伏，最开始的查分专业课极其离谱，到自己复核后改正分数，本以为有希望，结果后来加群看了群里人们的成绩后，自己大概率连复试都进不了。又赶上疫情，自己已经在家待了好长时间了，也应该静下心来好好想想之后的规划。当得知自己按分数排名后很有可能进不了复试，彻底摆烂。无心复习，天天看会b站，YouTube，看会论坛，毫无学习的动力。加上疫情自己也有一丝焦虑，有些迷茫。现在所想的是等疫情缓和后自己出去找工作，如果能找到凑乎的便先干着，之后的路再说，最坏情况如果自己找不到一份满意的工作，便“闭关”四个月之后再找工作，细想自己其实走了很多弯路，如果去年不脱产复习的话现在应该早已回去工作了...但自己就算今年失败了也不后悔，至少自己不留遗憾了，免得工作的时候老是想着这些。&lt;/p&gt;
+&lt;p&gt;这周下了俩天大雪，很厚，但气温还可以，没有冬天下雪之后那样冷，但也将近三天才开始融化。趁着疫情在家好好想想之后的路，人生失败才是常态，试着接受，及时调整心态，稳扎稳打。&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Moaning</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/moaning/" />
