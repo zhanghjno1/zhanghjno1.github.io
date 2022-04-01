@@ -17,7 +17,7 @@
 
     <title>Home is forever harbor | HJのBLOG</title>
 
-    <link rel="stylesheet" href="/css/meme.min.c9d72e789f4a46c6d16b49381b46675883041cd0d3241ba27cc70099a8a58414.css"/>
+    <link rel="stylesheet" href="/css/meme.min.afed10fa3664c19e40dc276711a86c0ae93a2040892a4f6463a8824402faf8dc.css"/>
 
     
     
@@ -70,7 +70,7 @@
             "@type": "Person",
             "description": "less is more",
             "email": "ybf486@gmail.com",
-            "image": "https://zhanghjno1.github.io/icons/apple-touch-icon.png",
+            "image": "https://zhanghjno1.github.io/icons/er_icon.png",
             "url": "https://zhanghjno1.github.io/",
             "name": "zhanghj"
         },
@@ -80,7 +80,7 @@
             "name": "HJのBLOG",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://zhanghjno1.github.io/icons/apple-touch-icon.png"
+                "url": "https://zhanghjno1.github.io/icons/er_icon.png"
             },
             "url": "https://zhanghjno1.github.io/"
         },
@@ -467,6 +467,18 @@
 
 
             
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<text class="poem_sentence"></text>
+<text class="poem_info"></text>
+<script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector(".poem_sentence")
+    var info = document.querySelector(".poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '——' + result.data.origin.author
+  });
+</script>
+
         </div>
     </footer>
 
