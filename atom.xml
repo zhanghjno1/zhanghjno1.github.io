@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-05-23T08:57:18&#43;08:00</updated>
+    <updated>2022-05-30T09:14:05&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,51 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">第三周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/</id>
+            <updated>2022-05-30T09:13:55&#43;08:00</updated>
+            <published>2022-05-30T09:12:52&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">学习 这周要开始刷leetcode，至少每天一题吧，希望自己可以坚持下来。 环境 自认为自……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;学习&#34;&gt;学习&lt;/h3&gt;
+&lt;p&gt;这周要开始刷leetcode，至少每天一题吧，希望自己可以坚持下来。&lt;/p&gt;
+&lt;h3 id=&#34;环境&#34;&gt;环境&lt;/h3&gt;
+&lt;p&gt;自认为自己是一个容易满足的人，且对于很多环境都可以很快适应，但上课的环境就有些挑战自己了。并不是说这里提供的外部环境不好，而是一些其他因素，哈哈哈。右边的老哥，人倒是不错，感觉是个好相处的人，但有一点自己还是比较在意的，他身上总是充斥着浑厚的&lt;strong&gt;男人味&lt;/strong&gt;，实话实说，太呛人了ᵕ᷄≀ ̠ᵕ᷅ ，而且平时还好，身旁一股淡淡的&lt;strong&gt;孜然&lt;/strong&gt;味道，也起到了提神的效果，倘若出汗过后，孜然炸弹啊！左边的老哥没什么，很正常，只是有时候莫名其妙有股二氧化碳，氨气和硫化氢的混合气体味道，也有可能是我之前被熏的嗅觉失灵了吧~在这里说实话接触较为频繁的也只是左右桌，平时互相讨论讨论问题，目前看来，除了味道其他也还好。&lt;/p&gt;
+&lt;h3 id=&#34;感受&#34;&gt;感受&lt;/h3&gt;
+&lt;p&gt;学习的话虽说难，自己也不会百分百吸收，但自我开导能力极强的我也没有说多么压抑难受，最没底的就是瑞婷还不搭理我，唉。我忍不了了，周三夺命连环call（༎ຶ-༎ຶ）就不信了。（这是周三晚写的，那天又因为作业问题没顾得上，😭）看了朋友精彩的生活，哈哈哈，羡慕了，家里给买了车和女友出去玩，我更得加油学习，我很俗，我要赚钱，拼了命的赚钱。&lt;/p&gt;
+&lt;h3 id=&#34;运动&#34;&gt;运动&lt;/h3&gt;
+&lt;p&gt;运动的话依旧是跑步，只不过一周大概三跑，也还可以，基本都是5km左右，坚持，不仅改善形体，更重要的是可以释放下压力，在那种比较美丽的景色旁跑步，虽然有些累，但也是一种享受。&lt;/p&gt;
+&lt;h3 id=&#34;大捷报&#34;&gt;大捷报！&lt;/h3&gt;
+&lt;p&gt;终于终于，瑞婷终于理我了，而且我也搞清楚我做的不好的地方，以后得细心点，这样粗心大意可不行。女孩子都是特别需要仪式感的，不对，我也很喜欢那种仪式感，是人就喜欢吧，用自己的真心，行动去证明感情。和好的那天也就是昨天吧，太感动我了，跑完步还给我买了份披萨🍕，我的宝藏女孩！&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">第二周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%8C%E5%91%A8/" />
