@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-06-06T08:54:07&#43;08:00</updated>
+    <updated>2022-06-13T13:50:26&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,53 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">第五周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/</id>
+            <updated>2022-06-13T13:50:18&#43;08:00</updated>
+            <published>2022-06-13T13:49:18&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;strong&gt;没事的时候多给家里打打电话，他们很惦记你&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;strong&gt;没事的时候多给家里打打电话，他们很惦记你&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上周日给我妈打电话的时候她就说我很忙，都顾不上给他们打电话，也许是我多心，听出了她的委屈，唉。这周日正和瑞婷打电话，我爸给我打来了视频电话，我打回去后才知道是我妈和他念叨我忙，顾不上往回打电话，愧疚。这也是每周的一个任务吧，不论平淡与否，有事与否，都给家里打个电话吧。&lt;/p&gt;
+&lt;p&gt;已经将近一个月过去了，JavaSE部分完成了，接下来是数据结构，前端部分，数据结构，框架，以及后来就开始上手项目了。自己很大的感悟，时常&lt;strong&gt;复习&lt;/strong&gt;，复习很重要，现在的我经常前面学了后面就忘了，所以需要经常巩固，以防时间长的话一些琐碎的知识点忘却。运动的话自己基本除了下雨天的话也天天跑步，出出汗，洗个澡，也是挺舒服的。记得这周有一天比较难受的就是，本来换好衣服出去的时候天气还是很好的，不像是要下雨的情况。只是走到十字路口，开始零零星星的掉雨点，我不以为意，但当我过了马路的时候明显感觉到雨点密集而且大了许多。看这样子是跑不了了，那就回吧，但这时候，突然雨就来了...来不及了，这雨有点大，自己找个躲雨的地方吧，于是在一颗小树下躲着雨，但也没啥大用，哈哈哈哈，湿了~顶着雨回来，把衣服洗了，洗了个澡，继续卷Java。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker8290989862855034170.jpg&#34; alt=&#34;&#34;&gt;
+一般防止痔疮，每当课间的时候我都会出去溜达溜达，站一会，在公共区域看看窗外，也是一种放松。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker2313259204935259759.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下周的计划的话，把之前学习的记些笔记，做一些导图，形成一个自己的知识体系，遗忘不可避免，还是需要经常复习。运动的话看每天的情况再说吧。还有就是在这里三餐的话虽说不是最便宜最好吃的，但要求不高的我，能吃饱就好了~
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker2513705918793551725.jpg&#34; alt=&#34;&#34;&gt;
+每到饭点的时候，人还是很多的。&lt;/p&gt;
+&lt;p&gt;这段时间瑞婷也给买了很多好吃的，安慕希，辉山纯牛奶，还是俩箱，生怕我营养不良，哈哈哈，超级感动！也和她约好每周的周日是俩人的放松日，可以视频吃放纵餐，上周日瑞婷的毛血旺，这周瑞婷的红烧肉，很好吃，但太贵了，用完券还44，个人觉得有点浪费了 •᷄ࡇ•᷅ 不过很感谢瑞婷，我给她买的&lt;strong&gt;小惊喜&lt;/strong&gt;今天看了下，估计还有几天才能到~
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker945533230223636569.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;北京的同事捅喉杀人，上海的金山当街砍人，以及轰动全国的唐山烧烤店半夜三个流氓暴打小姑娘。这个社会现在戾气太重了，某些地方出问题了，不过话说回来，人类和动物说白了没什么区别，都是弱肉强食，不过是&lt;strong&gt;稍加文明&lt;/strong&gt;些罢了，我们能做的，只能一直努力，保护好自己的亲人，爱人等在乎的人。政府不作为，太多黑暗角落，天天报道别的国家水深火热，却不知道自己当地也是浑水一潭，道阻且长啊。&lt;/p&gt;
+&lt;p&gt;这些我改变不了，能做的只有，好好把现在的任务做好，努力吧~&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">第四周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%9B%9B%E5%91%A8/" />
