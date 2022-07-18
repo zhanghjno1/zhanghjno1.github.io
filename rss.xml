@@ -23,10 +23,64 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 11 Jul 2022 08:59:24 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:20:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zhanghjno1.github.io/rss.xml" />
         
+        
+            <item>
+                <title>第十周</title>
+                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</link>
+                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</guid>
+                <pubDate>Mon, 18 Jul 2022 09:17:46 &#43;0800</pubDate>
+                
+                    <author>ybf486@gmail.com (zhanghj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;这一周是来这里感觉目前为止最吃力的一周吧。刚开始还好，讲了安装了linux虚拟机并学习了基本操作，学习了git的基本使用，不算难，就是繁琐。但JavaEE就感觉有些抽象了，刚开始的http协议，与后来的模拟服务器与浏览器的交互过程，以及servlet的学习，都是建立在理解交互过程的操作上进行的，而且配环境等稍不注意就会出错，排查的话也没那么顺利。印象最深的就是在周五晚上这天，下了tomcat最新版本，我的idea也是2021版本，tomcat刚开始很顺利，可以运行。idea有些麻烦，创建EE工程只能用maven或者gradle，但作业形式是普通EE工程，也还好，照着作业格式我慢慢改，也可以运行出来。但比较坑的是tomcat版本问题，周五晚上运行tomcat每次提交都是404，我折腾了一晚上，最后试着换个tomcat版本，出来了...一晚上以为是代码或者配置出了问题，结果是版本问题。哈哈哈哈，不过也算是&lt;strong&gt;经验&lt;/strong&gt;了吧，现在多踩些坑，之后工作遇到问题才能更从容吧~&lt;/p&gt;
+&lt;p&gt;周三晚上人们都说有最大的月亮，晚上回宿舍路上特意瞅了瞅，在我这也没网上那么惊艳，和平时一样吧，顺便拍了张，但太糊了，是我的拍照手法问题，也是我的&lt;strong&gt;拍照机器&lt;/strong&gt;问题。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker7163047579199303300.jpg&#34; alt=&#34;&#34;&gt;
+本来想着给瑞婷分享的，但拍的这么烂，就没发。&lt;/p&gt;
+&lt;p&gt;周四瑞婷给买了果茶，对于很爱喝饮料的我来说，这种惊喜太快乐了！感谢瑞婷，我应每日三省吾身，慢慢进步！
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker2849440795734192824.jpg&#34; alt=&#34;瑞婷的果茶&#34;&gt;&lt;/p&gt;
+&lt;p&gt;对于饮食来说其实我是属于不怎么挑剔的人，但对于卫生很看重，还有就是老吃一样，偶尔换换口味还是不错的~周五周六俩天都是在楼下大米故事吃的，这家店有比较喜欢的一点是，称重，而且自己夹。正好自己可以夹一些菜一些肉控制下，营养均衡。反正俩天吃下来还是不错的~
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker1394323336119171605.jpg&#34; alt=&#34;大米故事&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker1106656531374456494.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker647236298888835317.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这星期最最让我开心的是，瑞婷给我投喂了俩大箱子好吃的！一箱手撕面包，另一箱是精选的低热量礼包，很开心~溜溜梅，豆干，魔芋爽，酸辣魔芋粉，紫薯吐司，香肠等...太多了，吃的超级开心~另附一张当天下午回宿舍酸辣魔芋粉的照片，棒。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker964850580751634777.jpg&#34; alt=&#34;好吃的东西&#34;&gt;&lt;/p&gt;
+&lt;p&gt;持续的高温，没有低于35度的天气，导致这周没有跑步，本来打算休跑了，但看了下今天的天气，没有前几天那么热了，35度，可以接受。于是我又跑步了，今天跑着有些许吃力，可能是气温的原因吧，哈哈哈。跑了不到5公里，冲个澡，舒服，解压。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker2509002105989467282.jpg&#34; alt=&#34;过马路的随拍&#34;&gt;&lt;/p&gt;
+&lt;p&gt;又到了最喜欢的周日，睡到自然醒，起床后简单洗漱后便去了教室。在教室待了会，中午没什么想吃的，于是就又到了麻辣烫店，今天点的少，加上饮料才23左右。下午和瑞婷打了电话，心疼她吧，一些令人烦恼的事情。我想以我的方式让她不要瞎想，让她好受些。唉，当时特别想买张机票，去她的城市找她。下午我又去了班级，她也可能学习了会吧，之后到了六点多就决定要去跑步了，习惯了35度网上，30度跑步居然感觉凉快，人的适应能力还真是强。整整绕着湖跑了一圈，风景很好，很舒服，也拍了几张照。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker9176694643011754778.jpg&#34; alt=&#34;湖边落日&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker5978437244320490446.jpg&#34; alt=&#34;另一张湖边落日&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker7814953146367520221.jpg&#34; alt=&#34;桥上的落日&#34;&gt;&lt;/p&gt;
+&lt;p&gt;很快了，马上接触项目，当做开项目的时候，时间肯定会过的更快，加油💪
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker1831342121537199915.jpg&#34; alt=&#34;2022/7/16&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{{align center:下周加油}}
+{{align center:瑞婷也要加油}}&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>第九周</title>
