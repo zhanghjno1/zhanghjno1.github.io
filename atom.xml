@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-07-18T09:20:33&#43;08:00</updated>
+    <updated>2022-07-18T09:31:12&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">第十周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/" />
             <id>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</id>
-            <updated>2022-07-18T09:18:42&#43;08:00</updated>
+            <updated>2022-07-18T09:30:54&#43;08:00</updated>
             <published>2022-07-18T09:17:46&#43;08:00</published>
             <author>
                     <name>zhanghj</name>
@@ -49,8 +49,10 @@
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker7814953146367520221.jpg&#34; alt=&#34;桥上的落日&#34;&gt;&lt;/p&gt;
 &lt;p&gt;很快了，马上接触项目，当做开项目的时候，时间肯定会过的更快，加油💪
 &lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker1831342121537199915.jpg&#34; alt=&#34;2022/7/16&#34;&gt;&lt;/p&gt;
-&lt;p&gt;{{align center:下周加油}}
-{{align center:瑞婷也要加油}}&lt;/p&gt;
+&lt;p&gt;&lt;p style=&#34;text-align:center&#34;&gt;下周加油&lt;/p&gt;
+
+&lt;p style=&#34;text-align:center&#34;&gt;瑞婷也要加油&lt;/p&gt;
+&lt;/p&gt;
 </content>
             
             
