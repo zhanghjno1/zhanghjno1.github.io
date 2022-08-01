@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-07-25T08:52:22&#43;08:00</updated>
+    <updated>2022-08-01T09:07:56&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">十二周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/</id>
+            <updated>2022-08-01T09:07:48&#43;08:00</updated>
+            <published>2022-08-01T09:07:16&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这周是项目周，做了项目一。项目一相对简单，我们只需要写后端，传输数据给前端，只要掌握……</summary>
+            
+                <content type="html">&lt;p&gt;这周是项目周，做了项目一。项目一相对简单，我们只需要写后端，传输数据给前端，只要掌握了套路，就会发现，中心就是抓包，写接口，传输数据。自己也是花了三天时间来写项目，之后就是修改bug了。这周的话做项目自己中午是基本没怎么回宿舍的，只有在周五回去了一次，还是干劲十足的。周六自己就上去进行项目演示汇报，看了别人的，也收获了一些别的创新点与想法。&lt;/p&gt;
+&lt;p&gt;对于瑞婷自己很想念，不过想着还有四周，很快的，好好努力，找到好工作，为我俩创造更好的条件。不要浮躁，静下心来。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker5495142123763845147.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker8202526893688464256.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker5901527490518324072.jpg&#34; alt=&#34;&#34;&gt;
+跑步一周没跑，但周六周日俩天都绕着湖跑了一圈，酣畅淋漓。&lt;/p&gt;
+&lt;p&gt;下周就是spring了，努力，摆正态度，坚持下去。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十一周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%80%E5%91%A8/" />
