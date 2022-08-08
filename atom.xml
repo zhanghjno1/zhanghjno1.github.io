@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-08-01T09:07:56&#43;08:00</updated>
+    <updated>2022-08-08T09:41:49&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,55 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">十三周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%89%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%89%E5%91%A8/</id>
+            <updated>2022-08-08T09:41:37&#43;08:00</updated>
+            <published>2022-08-08T09:40:54&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这周学了spring，对于之后工作仍是迷茫状态，希望接下来及时调整自己，最终能够得偿……</summary>
+            
+                <content type="html">&lt;p&gt;这周学了spring，对于之后工作仍是迷茫状态，希望接下来及时调整自己，最终能够得偿所愿吧。&lt;/p&gt;
+&lt;p&gt;运动的话，跑步。接下来的时间只有周六日有时间会跑跑吧，跑完出出汗，还是很舒服的。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker4171330608667339898.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker9067974728403805112.jpg&#34; alt=&#34;&#34;&gt;
+沿途也有很美的风景，对于压抑了一周的我来说，解压。而且自己挑选的跑步时间点刚好为傍晚落日时分，温度相对来说降了一些，也能在沿途拍一些好看的照片。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker6721444868406242117.jpg&#34; alt=&#34;&#34;&gt;
+落日余晖，最后到达桥上看远方，别有一番意境。
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker9017681534449719762.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker6223080189405657614.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+&lt;blockquote class=&#34;quote-center&#34;&gt;
+        &lt;p&gt;努力&lt;/p&gt;&lt;/blockquote&gt; 
+
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十二周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/" />
