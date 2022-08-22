@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-08-16T09:46:06&#43;08:00</updated>
+    <updated>2022-08-22T10:39:58&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">十五周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%94%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%94%E5%91%A8/</id>
+            <updated>2022-08-22T10:39:49&#43;08:00</updated>
+            <published>2022-08-22T10:39:26&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这周项目二结束了，在周四进行了项目演示与汇报。这次与上次不同的是，小组分工合作，每个……</summary>
+            
+                <content type="html">&lt;p&gt;这周项目二结束了，在周四进行了项目演示与汇报。这次与上次不同的是，小组分工合作，每个人有各自的任务，最后通过git拉取上传整合在一起。在项目开始自己也简单进行了项目分工，以及代码规范。因为是一起全天候很集中的开发，加上项目没想象中那么有难度，所以几天大部分人都完成了各自负责的模块，只有一位可能是基础不太扎实导致没有完成。完成与否不是最重要的，重要的是，知道自己在这的目的，别人与我无关，花着钱，花着时间，自己得学到东西，这就够了。这周还有一个小插曲，有一天停了一整天电，对！是8月16日这天。刚开始其实对于停电感觉也一般，最多就是项目进度之后得赶赶，这天手机可能得节省着用。但下午的感觉让我知道我想简单了，没有电就意味着没有空调，在这一周基本四十度的高温下，没空调就意味着&lt;strong&gt;桑拿&lt;/strong&gt;。在我家里，太阳下是最热的，躲到一个阴凉处就可以避暑，但武汉这个地方不一样，就算我到了树荫下，还是蒸桑拿。所以宿舍里很难熬，自己热的不行了，洗个澡吧，洗完澡出来刚开始很凉快，结果没过几分钟，脱着仅剩裤衩子的我居然开始出汗了~宿舍是待不下去了，和室友去往了没有停电的超市，果然很凉快，自己居然在哪里待了俩个多小时，真是可以的。在超市买了奶啤，第一次喝奶啤，味道不错！
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker8667204078792840215.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs/image_picker3177394125831418950.jpg&#34; alt=&#34;&#34;&gt;
+不过说到逛超市，很希望瑞婷在，和她一块逛超市，那种感觉还是比较温馨的。一下午就这么过去了，心想着晚上可能会稍微舒服些，但又一次想错了，那天没顾上看温度，不过肯定在30往上，宿舍是不能待了。奥，还有这天瑞婷超级暖心，给我买了喜欢的晚饭，这个地方我最喜欢的就是它了，吃的很香，虽然是摸黑吃的，哈哈哈哈哈。晚上自己没在宿舍，一直在外面和瑞婷打着电话溜达着，毕竟外面可比公寓凉快多了，有&lt;strong&gt;暖风&lt;/strong&gt;！到了快十一点才来的电，来电真爽！珍惜有水有电！生活还是很美好的~&lt;/p&gt;
+&lt;p&gt;周日这天是阴历生日，收到了我妈的大红包。因为这附近实在没什么好吃的东西，依旧每周必备，麻辣烫吧。晚上瑞婷给点了饮料，好！喝！稳稳的幸福~我们会越来越好！&lt;/p&gt;
+&lt;p&gt;跑步依旧是周六日的规划，坚持运动，身心健康。&lt;/p&gt;
+&lt;p&gt;做项目的时候是时间过的最快的，没干什么一周又过去了。满打满算，也就俩周。调整心态，加油，坚持。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十四周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E5%9B%9B%E5%91%A8/" />
