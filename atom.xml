@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-08-22T10:39:58&#43;08:00</updated>
+    <updated>2022-08-30T11:17:39&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,53 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">十六周</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E5%85%AD%E5%91%A8/" />
+            <id>https://zhanghjno1.github.io/posts/%E5%8D%81%E5%85%AD%E5%91%A8/</id>
+            <updated>2022-08-30T11:17:29&#43;08:00</updated>
+            <published>2022-08-30T11:16:31&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">稀里糊涂一周就过去了，由刚开始项目的猛赶进度，到最后干劲逐渐消磨殆尽，前期冲得太猛，……</summary>
+            
+                <content type="html">&lt;p&gt;稀里糊涂一周就过去了，由刚开始项目的猛赶进度，到最后干劲逐渐消磨殆尽，前期冲得太猛，后期容易“泄气”啊，哈哈哈哈。这周就是做项目，听课，做项目，现在心态已经放平了，。浮躁没用，焦虑没用，这些情绪有，也是很正常的事或者说没有才不正常，至少在我看来。当然，最重要的是：
+
+
+&lt;blockquote class=&#34;quote-center&#34;&gt;
+        &lt;p&gt;不骄不躁&lt;/p&gt;&lt;/blockquote&gt; 
+&lt;/p&gt;
+&lt;p&gt;这才是我学习过程中最需要也是最重要的品质。倘若学习过程畅通无阻毫无困难，不要骄傲沾沾自喜，另一方面是，在学习过程中遇到难点阻碍，不要烦躁过度否定自己，保持一颗平常心，强大的心，不为外界因素影响太多。&lt;/p&gt;
+&lt;p&gt;压力大的时候找一些转移方法，比如运动，看一些感兴趣的视频，逛论坛看帖子。这几周都是一样，周末跑步，也挺好，只要保持运动的习惯就好。&lt;/p&gt;
+&lt;p&gt;疫情一波未平一波又起，翻来覆去，很烦。本来已经规划着要去找瑞婷，我这里有疫情，瑞婷哪里貌似也可能有，虽说不爽，但也只能转化为找工作的动力了。因为学习是相对轻松的事情了，找工作才是重头戏。&lt;/p&gt;
+&lt;p&gt;周日这天和宿舍的人一起吃了牛肉自助火锅，128一人，东西都比较正经，总体来说还行。没吃过牛蛙的我本来说尝试一下，结果看着那粗壮而有力的牛蛙肌肉腿，强忍着吃了一口，糯糯的，可能是煮太久了的原因吧，不喜欢。&lt;/p&gt;
+&lt;p&gt;哦，还有就是，和瑞婷俩人周六日&lt;strong&gt;一起&lt;/strong&gt;看了俩个电影，一部是《贤子孝孙伺候着》，很喜欢里面的赵丽蓉老师，很可爱，是一部荒诞喜剧，很讽刺，现在是看不到这种作品了，可惜。另一部是《精灵旅社》，和上一部比感觉差点，但是也可以，一直以为是皮克斯的动画，结果是索尼的，哈哈哈，果然要是皮克斯的话，剧情应该会更好看吧，超喜欢皮克斯的电影~&lt;/p&gt;
+&lt;p&gt;下周应该算是最后一周了吧，坚持下去，给自己这段经历完美的收个尾~&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十五周</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%94%E5%91%A8/" />
