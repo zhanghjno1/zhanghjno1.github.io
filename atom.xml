@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-11-04T17:13:01&#43;08:00</updated>
+    <updated>2022-11-19T01:50:42&#43;08:00</updated>
     <id>https://zhanghjno1.github.io/</id>
     <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhanghjno1.github.io/atom.xml" />
@@ -16,6 +16,45 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">我不喜欢这份工作</title>
+            <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/" />
+            <id>https://zhanghjno1.github.io/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/</id>
+            <updated>2022-11-19T01:50:33&#43;08:00</updated>
+            <published>2022-11-19T01:47:55&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://zhanghjno1.github.io/</uri>
+                    <email>ybf486@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">入职工作将近一个月了，这段时间用一个词总结就是：折磨。这家公司是一家外包公司，我工作……</summary>
+            
+                <content type="html">&lt;p&gt;入职工作将近一个月了，这段时间用一个词总结就是：&lt;strong&gt;折磨&lt;/strong&gt;。这家公司是一家外包公司，我工作是银行驻场开发，在上海银行数据中心工作，刚开始入职我就感觉比较坑。果然我的直觉是对的，三个月试用期社保不交，美其名曰试用期转正后补缴...最离谱的是，我们项目组在银行一整组只有我一个后端，我不喜欢。因为我业务什么的都还不熟悉，一进去就一堆问题来问我，作为一个新人，有人带我已经不奢求了，但至少再有个后端bro吧...一个人真的很难熬，我刚开始是雄心壮志的，立志要在这里学到很多，要大展拳脚。但工作的这段时间，我发现在这家公司大概率是浪费时间，即使累点，只要能学到东西，我也愿意，但在这家公司我这段时间真的是啥也没学到，甚至之前的东西也忘了很多，太离谱了~&lt;/p&gt;
+&lt;p&gt;再说说银行驻场开发吧，如果能找到别的工作，还是不要来银行驻场，至少对我而言。银行驻场开发因为考虑安全原因，开发是在虚拟机进行开发，然后看日志是连接堡垒机拉取日志，很麻烦，这一套流程下来效率真的太低了。在自研公司的话，有很多步骤可以省略，这样效率就高了很多，而且也能接触一些核心技术。至少我目前而言看，这家外包公司在银行的开发工作更多是调包，调用API，一些东西都写好了，自己最多也就是写写接口，然后很多东西都用的写好的，相比较而言，相同时间能学到的东西和自研公司比真的性价比太低了。就我身边来说就有例子，我和我朋友基本算是前后找到工作，他是进了一家自研公司，我是进了这家外包公司，但这段时间下来，他收获学到了很多，我基本停留在原地，毫无进步，甚至有些退步。&lt;/p&gt;
+&lt;p&gt;说实话想跳槽了，问了一些老师都说骑驴找马，我明天就开始投简历，周六日慢慢面试，家里人说本命年容易不顺，希望之后都是顺顺利利的。&lt;/p&gt;
+&lt;p&gt;夜半时分，写下此文，真的内耗，睡觉！&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhanghjno1.github.io/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">读《置身事内》</title>
             <link rel="alternate" type="text/html" href="https://zhanghjno1.github.io/posts/%E8%AF%BB%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85/" />
