@@ -8,33 +8,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>HJのBLOG</title>
-        <link>https://zhanghjno1.github.io/</link>
+        <link>https://5ybf.space/</link>
         <description></description>
         <generator>Hugo 0.96.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>ybf486@gmail.com (zhanghj)</managingEditor>
-        
-        
-            <webMaster>ybf486@gmail.com (zhanghj)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 23 Dec 2022 10:33:06 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 11:16:05 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://zhanghjno1.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://5ybf.space/rss.xml" />
         
         
             <item>
                 <title>去北京</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8E%BB%E5%8C%97%E4%BA%AC/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8E%BB%E5%8C%97%E4%BA%AC/</guid>
+                <link>https://5ybf.space/posts/%E5%8E%BB%E5%8C%97%E4%BA%AC/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8E%BB%E5%8C%97%E4%BA%AC/</guid>
                 <pubDate>Fri, 23 Dec 2022 10:30:06 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -47,7 +41,7 @@
 
 &lt;div style=&#34;position:relative; padding-bottom:75%; width:100%; height:0&#34;&gt;
     &lt;iframe
-            src=&#34;https://zhanghjno1.github.io//player.bilibili.com/player.html?bvid=BV158411H7SG&amp;page=1&#34;
+            src=&#34;https://5ybf.space//player.bilibili.com/player.html?bvid=BV158411H7SG&amp;page=1&#34;
             scrolling=&#34;no&#34;
             border=&#34;0&#34;
             frameborder=&#34;no&#34;
@@ -79,7 +73,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -91,11 +85,9 @@
         
             <item>
                 <title>离职了</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%A6%BB%E8%81%8C%E4%BA%86/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%A6%BB%E8%81%8C%E4%BA%86/</guid>
+                <link>https://5ybf.space/posts/%E7%A6%BB%E8%81%8C%E4%BA%86/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%A6%BB%E8%81%8C%E4%BA%86/</guid>
                 <pubDate>Sat, 26 Nov 2022 22:18:17 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -131,7 +123,7 @@
 
 &lt;div style=&#34;position:relative; padding-bottom:75%; width:100%; height:0&#34;&gt;
     &lt;iframe
-            src=&#34;https://zhanghjno1.github.io//player.bilibili.com/player.html?bvid=BV1iG4y1d7xt&amp;page=1&#34;
+            src=&#34;https://5ybf.space//player.bilibili.com/player.html?bvid=BV1iG4y1d7xt&amp;page=1&#34;
             scrolling=&#34;no&#34;
             border=&#34;0&#34;
             frameborder=&#34;no&#34;
@@ -155,7 +147,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -167,11 +159,9 @@
         
             <item>
                 <title>我不喜欢这份工作</title>
-                <link>https://zhanghjno1.github.io/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/</guid>
+                <link>https://5ybf.space/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%BD%E5%B7%A5%E4%BD%9C/</guid>
                 <pubDate>Sat, 19 Nov 2022 01:47:55 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -191,7 +181,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -203,11 +193,9 @@
         
             <item>
                 <title>读《置身事内》</title>
-                <link>https://zhanghjno1.github.io/posts/%E8%AF%BB%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E8%AF%BB%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85/</guid>
+                <link>https://5ybf.space/posts/%E8%AF%BB%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E8%AF%BB%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85/</guid>
                 <pubDate>Fri, 04 Nov 2022 17:07:48 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -238,7 +226,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -248,7 +236,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -258,11 +246,9 @@
         
             <item>
                 <title>跌宕起伏的十月</title>
-                <link>https://zhanghjno1.github.io/posts/%E8%B7%8C%E5%AE%95%E8%B5%B7%E4%BC%8F%E7%9A%84%E5%8D%81%E6%9C%88/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E8%B7%8C%E5%AE%95%E8%B5%B7%E4%BC%8F%E7%9A%84%E5%8D%81%E6%9C%88/</guid>
+                <link>https://5ybf.space/posts/%E8%B7%8C%E5%AE%95%E8%B5%B7%E4%BC%8F%E7%9A%84%E5%8D%81%E6%9C%88/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E8%B7%8C%E5%AE%95%E8%B5%B7%E4%BC%8F%E7%9A%84%E5%8D%81%E6%9C%88/</guid>
                 <pubDate>Sat, 29 Oct 2022 17:58:57 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -308,7 +294,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -320,11 +306,9 @@
         
             <item>
                 <title>关于这几周我在干什么</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%85%B3%E4%BA%8E%E8%BF%99%E5%87%A0%E5%91%A8%E6%88%91%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%85%B3%E4%BA%8E%E8%BF%99%E5%87%A0%E5%91%A8%E6%88%91%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88/</guid>
+                <link>https://5ybf.space/posts/%E5%85%B3%E4%BA%8E%E8%BF%99%E5%87%A0%E5%91%A8%E6%88%91%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%85%B3%E4%BA%8E%E8%BF%99%E5%87%A0%E5%91%A8%E6%88%91%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88/</guid>
                 <pubDate>Fri, 30 Sep 2022 18:17:58 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -355,7 +339,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -367,11 +351,9 @@
         
             <item>
                 <title>结束前一周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%BB%93%E6%9D%9F%E5%89%8D%E4%B8%80%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%BB%93%E6%9D%9F%E5%89%8D%E4%B8%80%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%BB%93%E6%9D%9F%E5%89%8D%E4%B8%80%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%BB%93%E6%9D%9F%E5%89%8D%E4%B8%80%E5%91%A8/</guid>
                 <pubDate>Mon, 05 Sep 2022 21:26:11 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -409,7 +391,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -421,11 +403,9 @@
         
             <item>
                 <title>读《明朝那些事儿》</title>
-                <link>https://zhanghjno1.github.io/posts/%E8%AF%BB%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E8%AF%BB%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
+                <link>https://5ybf.space/posts/%E8%AF%BB%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E8%AF%BB%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
                 <pubDate>Fri, 02 Sep 2022 14:43:38 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -464,7 +444,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -474,7 +454,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -484,11 +464,9 @@
         
             <item>
                 <title>十六周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E5%85%AD%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E5%85%AD%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E5%85%AD%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E5%85%AD%E5%91%A8/</guid>
                 <pubDate>Tue, 30 Aug 2022 11:16:31 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -516,7 +494,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -528,11 +506,9 @@
         
             <item>
                 <title>十五周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%94%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%94%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E4%BA%94%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E4%BA%94%E5%91%A8/</guid>
                 <pubDate>Mon, 22 Aug 2022 10:39:26 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -555,7 +531,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -567,11 +543,9 @@
         
             <item>
                 <title>十四周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E5%9B%9B%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E5%9B%9B%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E5%9B%9B%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E5%9B%9B%E5%91%A8/</guid>
                 <pubDate>Tue, 16 Aug 2022 09:08:37 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -598,7 +572,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -610,11 +584,9 @@
         
             <item>
                 <title>十三周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%89%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%89%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E4%B8%89%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E4%B8%89%E5%91%A8/</guid>
                 <pubDate>Mon, 08 Aug 2022 09:40:54 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -644,7 +616,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -656,11 +628,9 @@
         
             <item>
                 <title>十二周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E4%BA%8C%E5%91%A8/</guid>
                 <pubDate>Mon, 01 Aug 2022 09:07:16 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -683,7 +653,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -695,11 +665,9 @@
         
             <item>
                 <title>十一周</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%80%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%81%E4%B8%80%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%81%E4%B8%80%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%81%E4%B8%80%E5%91%A8/</guid>
                 <pubDate>Mon, 25 Jul 2022 08:49:06 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -736,7 +704,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -748,11 +716,9 @@
         
             <item>
                 <title>第十周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E5%8D%81%E5%91%A8/</guid>
                 <pubDate>Mon, 18 Jul 2022 09:17:46 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -792,7 +758,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -804,11 +770,9 @@
         
             <item>
                 <title>第九周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B9%9D%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B9%9D%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%B9%9D%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%B9%9D%E5%91%A8/</guid>
                 <pubDate>Mon, 11 Jul 2022 08:58:49 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -833,7 +797,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -845,11 +809,9 @@
         
             <item>
                 <title>第八周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%85%AB%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%85%AB%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E5%85%AB%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E5%85%AB%E5%91%A8/</guid>
                 <pubDate>Mon, 04 Jul 2022 11:19:26 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -880,7 +842,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -892,11 +854,9 @@
         
             <item>
                 <title>第七周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%83%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%83%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%B8%83%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%B8%83%E5%91%A8/</guid>
                 <pubDate>Mon, 27 Jun 2022 09:00:45 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -925,7 +885,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -937,11 +897,9 @@
         
             <item>
                 <title>第六周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%85%AD%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%85%AD%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E5%85%AD%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E5%85%AD%E5%91%A8/</guid>
                 <pubDate>Mon, 20 Jun 2022 09:33:55 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -969,7 +927,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -981,11 +939,9 @@
         
             <item>
                 <title>第五周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%BA%94%E5%91%A8/</guid>
                 <pubDate>Mon, 13 Jun 2022 13:49:18 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1013,7 +969,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1025,11 +981,9 @@
         
             <item>
                 <title>第四周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%9B%9B%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E5%9B%9B%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E5%9B%9B%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E5%9B%9B%E5%91%A8/</guid>
                 <pubDate>Mon, 06 Jun 2022 08:44:58 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1062,7 +1016,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1074,11 +1028,9 @@
         
             <item>
                 <title>第三周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%B8%89%E5%91%A8/</guid>
                 <pubDate>Mon, 30 May 2022 09:12:52 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1104,7 +1056,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1116,11 +1068,9 @@
         
             <item>
                 <title>第二周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%8C%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%BA%8C%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%BA%8C%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%BA%8C%E5%91%A8/</guid>
                 <pubDate>Mon, 23 May 2022 08:55:30 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1151,7 +1101,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1163,11 +1113,9 @@
         
             <item>
                 <title>第一周</title>
-                <link>https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%80%E5%91%A8/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E7%AC%AC%E4%B8%80%E5%91%A8/</guid>
+                <link>https://5ybf.space/posts/%E7%AC%AC%E4%B8%80%E5%91%A8/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E7%AC%AC%E4%B8%80%E5%91%A8/</guid>
                 <pubDate>Mon, 16 May 2022 22:04:00 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1203,7 +1151,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1215,11 +1163,9 @@
         
             <item>
                 <title>前往武汉</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%89%8D%E5%BE%80%E6%AD%A6%E6%B1%89/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%89%8D%E5%BE%80%E6%AD%A6%E6%B1%89/</guid>
+                <link>https://5ybf.space/posts/%E5%89%8D%E5%BE%80%E6%AD%A6%E6%B1%89/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%89%8D%E5%BE%80%E6%AD%A6%E6%B1%89/</guid>
                 <pubDate>Mon, 09 May 2022 08:36:10 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1251,7 +1197,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1263,11 +1209,9 @@
         
             <item>
                 <title>即将启程</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%8D%B3%E5%B0%86%E5%90%AF%E7%A8%8B/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%8D%B3%E5%B0%86%E5%90%AF%E7%A8%8B/</guid>
+                <link>https://5ybf.space/posts/%E5%8D%B3%E5%B0%86%E5%90%AF%E7%A8%8B/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%8D%B3%E5%B0%86%E5%90%AF%E7%A8%8B/</guid>
                 <pubDate>Mon, 02 May 2022 20:45:37 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1297,7 +1241,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1309,11 +1253,9 @@
         
             <item>
                 <title>快了</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%BF%AB%E4%BA%86/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%BF%AB%E4%BA%86/</guid>
+                <link>https://5ybf.space/posts/%E5%BF%AB%E4%BA%86/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%BF%AB%E4%BA%86/</guid>
                 <pubDate>Mon, 25 Apr 2022 23:21:28 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1340,7 +1282,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1352,11 +1294,9 @@
         
             <item>
                 <title>读《被讨厌的勇气》</title>
-                <link>https://zhanghjno1.github.io/posts/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</guid>
+                <link>https://5ybf.space/posts/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</guid>
                 <pubDate>Fri, 22 Apr 2022 22:39:03 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1394,7 +1334,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -1404,7 +1344,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -1414,11 +1354,9 @@
         
             <item>
                 <title>学习与娱乐</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%A8%B1%E4%B9%90/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%A8%B1%E4%B9%90/</guid>
+                <link>https://5ybf.space/posts/%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%A8%B1%E4%B9%90/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%A8%B1%E4%B9%90/</guid>
                 <pubDate>Mon, 18 Apr 2022 22:42:53 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1438,7 +1376,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1450,11 +1388,9 @@
         
             <item>
                 <title>格局打开</title>
-                <link>https://zhanghjno1.github.io/posts/%E6%A0%BC%E5%B1%80%E6%89%93%E5%BC%80/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E6%A0%BC%E5%B1%80%E6%89%93%E5%BC%80/</guid>
+                <link>https://5ybf.space/posts/%E6%A0%BC%E5%B1%80%E6%89%93%E5%BC%80/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E6%A0%BC%E5%B1%80%E6%89%93%E5%BC%80/</guid>
                 <pubDate>Mon, 11 Apr 2022 22:35:27 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1478,7 +1414,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1490,11 +1426,9 @@
         
             <item>
                 <title>在家待着</title>
-                <link>https://zhanghjno1.github.io/posts/%E5%9C%A8%E5%AE%B6%E5%BE%85%E7%9D%80/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/%E5%9C%A8%E5%AE%B6%E5%BE%85%E7%9D%80/</guid>
+                <link>https://5ybf.space/posts/%E5%9C%A8%E5%AE%B6%E5%BE%85%E7%9D%80/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/%E5%9C%A8%E5%AE%B6%E5%BE%85%E7%9D%80/</guid>
                 <pubDate>Mon, 04 Apr 2022 21:04:30 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1511,7 +1445,7 @@
 &lt;p&gt;自己之后使用电脑必须条理清晰，重装只装了一些自己学习方向的，影音娱乐及通讯软件，游戏没有下载，原因很简单，自己接下来这段时间可能没什么时间玩，况且还有最重要的一点是：之后玩游戏的话就买个游戏机吧（是在自己工作挣钱之后~）至此，重装系统这一节点完结！！&lt;/p&gt;
 &lt;p&gt;这周自己除了重装系统重建博客外，也在空余时间当中穿插着学习，虽说效果甚微，但&lt;strong&gt;日拱一卒，功不唐捐~&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在清明节前夕自己看了自己之前就一直想看的电影：《入殓师》&lt;/p&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=1434293747&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=1434293747&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 
 
 &lt;blockquote class=&#34;quote-center&#34;&gt;
@@ -1535,7 +1469,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1547,11 +1481,9 @@
         
             <item>
                 <title>The dust settles</title>
-                <link>https://zhanghjno1.github.io/posts/the_dust_settles/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/the_dust_settles/</guid>
+                <link>https://5ybf.space/posts/the_dust_settles/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/the_dust_settles/</guid>
                 <pubDate>Mon, 28 Mar 2022 20:04:22 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1573,7 +1505,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1585,11 +1517,9 @@
         
             <item>
                 <title>Reorient</title>
-                <link>https://zhanghjno1.github.io/posts/reorient/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/reorient/</guid>
+                <link>https://5ybf.space/posts/reorient/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/reorient/</guid>
                 <pubDate>Sun, 20 Mar 2022 20:01:06 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1607,7 +1537,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1619,11 +1549,9 @@
         
             <item>
                 <title>Moaning</title>
-                <link>https://zhanghjno1.github.io/posts/moaning/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/moaning/</guid>
+                <link>https://5ybf.space/posts/moaning/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/moaning/</guid>
                 <pubDate>Sun, 13 Mar 2022 19:59:09 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1650,7 +1578,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1662,11 +1590,9 @@
         
             <item>
                 <title>Calm down</title>
-                <link>https://zhanghjno1.github.io/posts/calm_down/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/calm_down/</guid>
+                <link>https://5ybf.space/posts/calm_down/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/calm_down/</guid>
                 <pubDate>Sun, 06 Mar 2022 19:54:59 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1674,8 +1600,8 @@
 &lt;!--more--&gt;
 &lt;!--more--&gt;
 &lt;p&gt;本来比较浮躁，由于几天精神食粮的治愈，逐渐平静下来。花费三天时间读完了曹德旺先生的《心若菩提》，从中也有了自己的收获。看完了我认为很棒的一部剧《人世间》，讲述当时时代背景下的各种人物的小生活，拍的很真实很有代入感，仿佛自己也随着剧中人物经历了一番，很感人也很温暖。看完剧后有很多情节仍历历在目，老爷子的逝世，老太太当夜陪着离去，以及一众好友那种质朴真实的感情...&lt;/p&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=1915875397&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=1920280202&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=1915875397&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=1920280202&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 
 
 &lt;blockquote class=&#34;quote-center&#34;&gt;
@@ -1702,7 +1628,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1714,11 +1640,9 @@
         
             <item>
                 <title>读《心若菩提》</title>
-                <link>https://zhanghjno1.github.io/posts/puti/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/puti/</guid>
+                <link>https://5ybf.space/posts/puti/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/puti/</guid>
                 <pubDate>Wed, 02 Mar 2022 19:53:15 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1775,7 +1699,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -1785,7 +1709,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -1795,11 +1719,9 @@
         
             <item>
                 <title>Absurd result</title>
-                <link>https://zhanghjno1.github.io/posts/absurd_result/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/absurd_result/</guid>
+                <link>https://5ybf.space/posts/absurd_result/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/absurd_result/</guid>
                 <pubDate>Sun, 27 Feb 2022 19:51:20 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1821,7 +1743,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1833,11 +1755,9 @@
         
             <item>
                 <title>Epidemic resurges</title>
-                <link>https://zhanghjno1.github.io/posts/epidemic_resurges/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/epidemic_resurges/</guid>
+                <link>https://5ybf.space/posts/epidemic_resurges/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/epidemic_resurges/</guid>
                 <pubDate>Sun, 20 Feb 2022 19:50:04 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1857,7 +1777,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1869,11 +1789,9 @@
         
             <item>
                 <title>Work hard next week</title>
-                <link>https://zhanghjno1.github.io/posts/work_hard_next_week/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/work_hard_next_week/</guid>
+                <link>https://5ybf.space/posts/work_hard_next_week/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/work_hard_next_week/</guid>
                 <pubDate>Sun, 13 Feb 2022 19:47:14 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1898,7 +1816,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1910,11 +1828,9 @@
         
             <item>
                 <title>7 days of Chinese New Year</title>
-                <link>https://zhanghjno1.github.io/posts/7daysofchinesenewyear/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/7daysofchinesenewyear/</guid>
+                <link>https://5ybf.space/posts/7daysofchinesenewyear/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/7daysofchinesenewyear/</guid>
                 <pubDate>Sat, 05 Feb 2022 19:45:14 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1941,7 +1857,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -1951,7 +1867,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/">Tags</category>
+                                    <category domain="https://5ybf.space/tags/">Tags</category>
                                 
                             
                         
@@ -1961,11 +1877,9 @@
         
             <item>
                 <title>New year tomorrow</title>
-                <link>https://zhanghjno1.github.io/posts/new_year_tomorrow/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/new_year_tomorrow/</guid>
+                <link>https://5ybf.space/posts/new_year_tomorrow/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/new_year_tomorrow/</guid>
                 <pubDate>Sun, 30 Jan 2022 19:34:40 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -1988,7 +1902,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2000,11 +1914,9 @@
         
             <item>
                 <title>Keep moving</title>
-                <link>https://zhanghjno1.github.io/posts/keep_moving/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/keep_moving/</guid>
+                <link>https://5ybf.space/posts/keep_moving/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/keep_moving/</guid>
                 <pubDate>Sun, 23 Jan 2022 19:32:55 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2029,7 +1941,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2041,11 +1953,9 @@
         
             <item>
                 <title>Experience life</title>
-                <link>https://zhanghjno1.github.io/posts/experience_life/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/experience_life/</guid>
+                <link>https://5ybf.space/posts/experience_life/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/experience_life/</guid>
                 <pubDate>Sun, 16 Jan 2022 19:30:18 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2069,7 +1979,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2081,11 +1991,9 @@
         
             <item>
                 <title>Return to normal</title>
-                <link>https://zhanghjno1.github.io/posts/return_to_normal/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/return_to_normal/</guid>
+                <link>https://5ybf.space/posts/return_to_normal/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/return_to_normal/</guid>
                 <pubDate>Tue, 11 Jan 2022 19:23:32 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2106,7 +2014,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2118,11 +2026,9 @@
         
             <item>
                 <title>New direction</title>
-                <link>https://zhanghjno1.github.io/posts/new_direction/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/new_direction/</guid>
+                <link>https://5ybf.space/posts/new_direction/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/new_direction/</guid>
                 <pubDate>Thu, 06 Jan 2022 19:18:26 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2142,7 +2048,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2154,11 +2060,9 @@
         
             <item>
                 <title>2021</title>
-                <link>https://zhanghjno1.github.io/posts/2021/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/2021/</guid>
+                <link>https://5ybf.space/posts/2021/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/2021/</guid>
                 <pubDate>Sat, 01 Jan 2022 19:11:51 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2172,8 +2076,8 @@
 &lt;p&gt;今年还有一个变化是自己有规律的锻炼身体，刚开始的每天夜跑，到后来天气变凉的每天在家俯卧撑，可以说是我这种懒人锻炼的阶段性进展了。体重也从去年的80kg到了今天的不到70kg，身体状况也更加健康，这种习惯我也会坚持下去！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/746758179697075850.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;运动是我的主要解压方式，还有一种解压方式也很有作用，便是看电影，我是一个特别喜欢看电影的人，今年让我印象最深也给我最多力量的电影便是史泰龙的洛奇系列，令人热血沸腾！&lt;/p&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=2285204&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=2285212&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=2285204&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=2285212&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;strong&gt;展望2022，新的一年，继续加油！&lt;/strong&gt;&lt;/p&gt;</description>
                 
                 
@@ -2186,7 +2090,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2198,11 +2102,9 @@
         
             <item>
                 <title>After two days</title>
-                <link>https://zhanghjno1.github.io/posts/after_two_days/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/after_two_days/</guid>
+                <link>https://5ybf.space/posts/after_two_days/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/after_two_days/</guid>
                 <pubDate>Tue, 28 Dec 2021 19:07:22 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2217,7 +2119,7 @@
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/751877504501578479.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/422104946936936674.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我还没有回家的时候有很多人就开始发来消息，别人更多关注的是彼此考试的情况，简单说了说各自的情况后便问起了他们各自的打算与计划，原来大家都很迷茫。当天最解压的便是和宝贝一直打电话到睡觉，这可能是我这段时间和她最放松的打电话，心里什么都不想，只是顺其自然的聊着天，想到什么就说什么。我暂时可以放松下了，但宝贝还有一些日子才能回来，彼此都很想念，坚持。&lt;/p&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=1470899958&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=1470899958&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;第二天刚好可以搭车，便回家了，顺便带回家一些东西，本以为回家之后会很放松，其实自己的内心还是没有放松，虽然父母对自己没有任何要求，但恰好他们的关心理解让我更想赶快成长，让他们更加欣慰满意。去了姥姥姥爷那里，姥姥家的猫一点都不挑食，什么都吃，再对比自己家的肥猫...&lt;/p&gt;
 &lt;p&gt;28，也就是今天，房租还没到期，又回到了自己的小屋，在家这天发现自己已经习惯了早上起来洗漱，做50俯卧撑，学习，看会b站YouTube，吃饭，50俯卧撑，学习这样的节奏，于是决定退房前再呆一阵子，独处几天放空下自己，顺便复习下一个考试。接下来还是会背单词，还是会空余时间去学习，不过可能学的是自己感兴趣的东西。&lt;/p&gt;
 &lt;p&gt;其实最重要的是过程，结果不管是什么，这一年自己都得到了成长，相信自己以后不管是直接成为社畜还是继续完成学业都会更加有斗志，更加有毅力，要有一颗平常心！&lt;/p&gt;</description>
@@ -2232,7 +2134,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2244,11 +2146,9 @@
         
             <item>
                 <title>One week left</title>
-                <link>https://zhanghjno1.github.io/posts/one_week_left/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/one_week_left/</guid>
+                <link>https://5ybf.space/posts/one_week_left/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/one_week_left/</guid>
                 <pubDate>Sat, 18 Dec 2021 19:05:25 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2267,7 +2167,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2279,11 +2179,9 @@
         
             <item>
                 <title>Ten days</title>
-                <link>https://zhanghjno1.github.io/posts/ten_days/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/ten_days/</guid>
+                <link>https://5ybf.space/posts/ten_days/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/ten_days/</guid>
                 <pubDate>Mon, 13 Dec 2021 19:03:36 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2306,7 +2204,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2318,11 +2216,9 @@
         
             <item>
                 <title>21124</title>
-                <link>https://zhanghjno1.github.io/posts/21124/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/21124/</guid>
+                <link>https://5ybf.space/posts/21124/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/21124/</guid>
                 <pubDate>Sat, 04 Dec 2021 19:01:52 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2342,7 +2238,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2352,7 +2248,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/">Tags</category>
+                                    <category domain="https://5ybf.space/tags/">Tags</category>
                                 
                             
                         
@@ -2362,11 +2258,9 @@
         
             <item>
                 <title>Run</title>
-                <link>https://zhanghjno1.github.io/posts/run/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/run/</guid>
+                <link>https://5ybf.space/posts/run/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/run/</guid>
                 <pubDate>Tue, 30 Nov 2021 19:00:08 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2383,7 +2277,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2395,16 +2289,14 @@
         
             <item>
                 <title>Accumulate</title>
-                <link>https://zhanghjno1.github.io/posts/accumulate/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/accumulate/</guid>
+                <link>https://5ybf.space/posts/accumulate/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/accumulate/</guid>
                 <pubDate>Sun, 21 Nov 2021 18:56:54 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;&lt;strong&gt;Accumulate&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://zhanghjno1.github.io//music.163.com/outchain/player?type=2&amp;id=477251491&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;100%&#34; height=86 src=&#34;https://5ybf.space//music.163.com/outchain/player?type=2&amp;id=477251491&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;这周感觉自己有些许浮躁，越到后期心态越重要，脚踏实地一步一步来。选择了就要做到，看到同学们五彩缤纷的生活，和自己特别特别枯燥的生活形成了强烈对比。自己内心也动摇过，怀疑过，但已经到了这个阶段，就要坚持下来，这件事落幕后再做决定。厚积薄发，脚踏实地！&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;静下来&lt;/strong&gt;&lt;/p&gt;</description>
                 
@@ -2418,7 +2310,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2430,11 +2322,9 @@
         
             <item>
                 <title>To count down</title>
-                <link>https://zhanghjno1.github.io/posts/to_count_down/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/to_count_down/</guid>
+                <link>https://5ybf.space/posts/to_count_down/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/to_count_down/</guid>
                 <pubDate>Sat, 13 Nov 2021 18:55:09 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2454,7 +2344,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2466,11 +2356,9 @@
         
             <item>
                 <title>Cool down</title>
-                <link>https://zhanghjno1.github.io/posts/cool_down/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/cool_down/</guid>
+                <link>https://5ybf.space/posts/cool_down/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/cool_down/</guid>
                 <pubDate>Sun, 07 Nov 2021 18:53:54 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2489,7 +2377,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2501,11 +2389,9 @@
         
             <item>
                 <title>Insomnia is a disease</title>
-                <link>https://zhanghjno1.github.io/posts/insomnia_is_a_disease/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/insomnia_is_a_disease/</guid>
+                <link>https://5ybf.space/posts/insomnia_is_a_disease/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/insomnia_is_a_disease/</guid>
                 <pubDate>Sun, 31 Oct 2021 18:51:50 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2533,7 +2419,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2545,11 +2431,9 @@
         
             <item>
                 <title>1024</title>
-                <link>https://zhanghjno1.github.io/posts/a_1024/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/a_1024/</guid>
+                <link>https://5ybf.space/posts/a_1024/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/a_1024/</guid>
                 <pubDate>Sat, 23 Oct 2021 18:22:54 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2568,7 +2452,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2580,11 +2464,9 @@
         
             <item>
                 <title>101116</title>
-                <link>https://zhanghjno1.github.io/posts/after_101116/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/after_101116/</guid>
+                <link>https://5ybf.space/posts/after_101116/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/after_101116/</guid>
                 <pubDate>Sun, 17 Oct 2021 18:20:07 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2609,7 +2491,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2621,11 +2503,9 @@
         
             <item>
                 <title>After 10 1</title>
-                <link>https://zhanghjno1.github.io/posts/after_10_1/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/after_10_1/</guid>
+                <link>https://5ybf.space/posts/after_10_1/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/after_10_1/</guid>
                 <pubDate>Sun, 10 Oct 2021 18:17:40 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -2642,7 +2522,7 @@
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -2654,11 +2534,9 @@
         
             <item>
                 <title>Mathematical knowledge</title>
-                <link>https://zhanghjno1.github.io/posts/acw_math/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/acw_math/</guid>
+                <link>https://5ybf.space/posts/acw_math/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/acw_math/</guid>
                 <pubDate>Fri, 08 Oct 2021 18:15:01 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -3428,7 +3306,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -3438,13 +3316,13 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/template/">template</category>
+                                    <category domain="https://5ybf.space/tags/template/">template</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/algorithm/">algorithm</category>
+                                    <category domain="https://5ybf.space/tags/algorithm/">algorithm</category>
                                 
                             
                         
@@ -3454,11 +3332,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Effort</title>
-                <link>https://zhanghjno1.github.io/posts/effort/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/effort/</guid>
+                <link>https://5ybf.space/posts/effort/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/effort/</guid>
                 <pubDate>Tue, 05 Oct 2021 18:12:59 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -3476,7 +3352,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -3488,11 +3364,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Search and Graph Theory</title>
-                <link>https://zhanghjno1.github.io/posts/acw_graph/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/acw_graph/</guid>
+                <link>https://5ybf.space/posts/acw_graph/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/acw_graph/</guid>
                 <pubDate>Fri, 01 Oct 2021 17:57:47 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -4434,7 +4308,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -4444,13 +4318,13 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/template/">template</category>
+                                    <category domain="https://5ybf.space/tags/template/">template</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/algorithm/">algorithm</category>
+                                    <category domain="https://5ybf.space/tags/algorithm/">algorithm</category>
                                 
                             
                         
@@ -4460,11 +4334,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Ds</title>
-                <link>https://zhanghjno1.github.io/posts/acw_ds/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/acw_ds/</guid>
+                <link>https://5ybf.space/posts/acw_ds/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/acw_ds/</guid>
                 <pubDate>Tue, 28 Sep 2021 17:53:59 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -5231,7 +5103,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -5241,13 +5113,13 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/template/">template</category>
+                                    <category domain="https://5ybf.space/tags/template/">template</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/algorithm/">algorithm</category>
+                                    <category domain="https://5ybf.space/tags/algorithm/">algorithm</category>
                                 
                             
                         
@@ -5257,11 +5129,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Home is forever harbor</title>
-                <link>https://zhanghjno1.github.io/posts/homeharbor/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/homeharbor/</guid>
+                <link>https://5ybf.space/posts/homeharbor/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/homeharbor/</guid>
                 <pubDate>Sat, 25 Sep 2021 17:50:24 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -5282,7 +5152,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -5294,11 +5164,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Stl</title>
-                <link>https://zhanghjno1.github.io/posts/acw_stl/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/acw_stl/</guid>
+                <link>https://5ybf.space/posts/acw_stl/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/acw_stl/</guid>
                 <pubDate>Sun, 19 Sep 2021 17:38:53 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -5520,7 +5388,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -5530,7 +5398,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/c-/">C&#43;&#43;</category>
+                                    <category domain="https://5ybf.space/tags/c-/">C&#43;&#43;</category>
                                 
                             
                         
@@ -5540,11 +5408,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Basic algorithm template</title>
-                <link>https://zhanghjno1.github.io/posts/acw_basic/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/acw_basic/</guid>
+                <link>https://5ybf.space/posts/acw_basic/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/acw_basic/</guid>
                 <pubDate>Sat, 18 Sep 2021 17:36:08 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6070,7 +5936,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -6080,13 +5946,13 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/template/">template</category>
+                                    <category domain="https://5ybf.space/tags/template/">template</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/algorithm/">algorithm</category>
+                                    <category domain="https://5ybf.space/tags/algorithm/">algorithm</category>
                                 
                             
                         
@@ -6096,11 +5962,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Distinguish the importance</title>
-                <link>https://zhanghjno1.github.io/posts/distinguish_the_importance/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/distinguish_the_importance/</guid>
+                <link>https://5ybf.space/posts/distinguish_the_importance/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/distinguish_the_importance/</guid>
                 <pubDate>Sat, 18 Sep 2021 17:29:43 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6127,7 +5991,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -6139,11 +6003,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>读《Permanent Record》</title>
-                <link>https://zhanghjno1.github.io/posts/permanent_record/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/permanent_record/</guid>
+                <link>https://5ybf.space/posts/permanent_record/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/permanent_record/</guid>
                 <pubDate>Tue, 14 Sep 2021 17:33:45 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6171,7 +6033,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -6181,7 +6043,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -6191,11 +6053,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Full speed ahead</title>
-                <link>https://zhanghjno1.github.io/posts/full_speed_ahead/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/full_speed_ahead/</guid>
+                <link>https://5ybf.space/posts/full_speed_ahead/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/full_speed_ahead/</guid>
                 <pubDate>Sat, 11 Sep 2021 16:43:45 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6220,7 +6080,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -6232,11 +6092,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>读《薛兆丰经济学讲义》</title>
-                <link>https://zhanghjno1.github.io/posts/xuezhaofeng/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/xuezhaofeng/</guid>
+                <link>https://5ybf.space/posts/xuezhaofeng/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/xuezhaofeng/</guid>
                 <pubDate>Sat, 11 Sep 2021 16:39:51 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6277,7 +6135,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -6287,7 +6145,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/read/">read</category>
+                                    <category domain="https://5ybf.space/tags/read/">read</category>
                                 
                             
                         
@@ -6297,11 +6155,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_16</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_16.md/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_16.md/</guid>
+                <link>https://5ybf.space/posts/go_ashore_16.md/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_16.md/</guid>
                 <pubDate>Fri, 10 Sep 2021 16:34:58 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -6621,7 +6477,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -6631,7 +6487,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -6641,11 +6497,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_17</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_17.md/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_17.md/</guid>
+                <link>https://5ybf.space/posts/go_ashore_17.md/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_17.md/</guid>
                 <pubDate>Thu, 09 Sep 2021 16:34:52 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -7166,7 +7020,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -7176,7 +7030,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -7186,11 +7040,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_18</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_18.md/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_18.md/</guid>
+                <link>https://5ybf.space/posts/go_ashore_18.md/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_18.md/</guid>
                 <pubDate>Wed, 08 Sep 2021 16:34:47 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -7744,7 +7596,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -7754,7 +7606,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -7764,11 +7616,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_19</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_19.md/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_19.md/</guid>
+                <link>https://5ybf.space/posts/go_ashore_19.md/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_19.md/</guid>
                 <pubDate>Mon, 06 Sep 2021 16:33:20 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -8235,7 +8085,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -8245,7 +8095,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -8255,11 +8105,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Keep it up</title>
-                <link>https://zhanghjno1.github.io/posts/keep_it_up/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/keep_it_up/</guid>
+                <link>https://5ybf.space/posts/keep_it_up/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/keep_it_up/</guid>
                 <pubDate>Sat, 04 Sep 2021 16:25:53 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -8270,7 +8118,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
 
 &lt;div style=&#34;position:relative; padding-bottom:75%; width:100%; height:0&#34;&gt;
     &lt;iframe
-            src=&#34;https://zhanghjno1.github.io//player.bilibili.com/player.html?bvid=BV1SL4y1Y764&amp;page=1&#34;
+            src=&#34;https://5ybf.space//player.bilibili.com/player.html?bvid=BV1SL4y1Y764&amp;page=1&#34;
             scrolling=&#34;no&#34;
             border=&#34;0&#34;
             frameborder=&#34;no&#34;
@@ -8302,7 +8150,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -8314,11 +8162,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Step by step</title>
-                <link>https://zhanghjno1.github.io/posts/step_by_step/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/step_by_step/</guid>
+                <link>https://5ybf.space/posts/step_by_step/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/step_by_step/</guid>
                 <pubDate>Sat, 28 Aug 2021 16:23:57 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -8339,7 +8185,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -8351,11 +8197,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_20</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_20/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_20/</guid>
+                <link>https://5ybf.space/posts/go_ashore_20/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_20/</guid>
                 <pubDate>Wed, 25 Aug 2021 16:22:09 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -8818,7 +8662,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -8828,7 +8672,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -8838,11 +8682,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Keep enthusiasm</title>
-                <link>https://zhanghjno1.github.io/posts/keep_enthusiasm/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/keep_enthusiasm/</guid>
+                <link>https://5ybf.space/posts/keep_enthusiasm/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/keep_enthusiasm/</guid>
                 <pubDate>Sat, 21 Aug 2021 16:20:11 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -8865,7 +8707,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -8877,11 +8719,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Go ashore_21</title>
-                <link>https://zhanghjno1.github.io/posts/go_ashore_21/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/go_ashore_21/</guid>
+                <link>https://5ybf.space/posts/go_ashore_21/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/go_ashore_21/</guid>
                 <pubDate>Mon, 16 Aug 2021 16:17:07 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -9664,7 +9504,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -9674,7 +9514,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/ashore/">ashore</category>
+                                    <category domain="https://5ybf.space/tags/ashore/">ashore</category>
                                 
                             
                         
@@ -9684,11 +9524,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Adjust mindset</title>
-                <link>https://zhanghjno1.github.io/posts/adjust_mindset/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/adjust_mindset/</guid>
+                <link>https://5ybf.space/posts/adjust_mindset/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/adjust_mindset/</guid>
                 <pubDate>Sun, 15 Aug 2021 16:14:23 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -9729,7 +9567,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -9741,11 +9579,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Regular Schedule</title>
-                <link>https://zhanghjno1.github.io/posts/regular_schedule/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/regular_schedule/</guid>
+                <link>https://5ybf.space/posts/regular_schedule/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/regular_schedule/</guid>
                 <pubDate>Sat, 07 Aug 2021 16:09:14 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -9770,7 +9606,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -9782,11 +9618,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Markdown 笔记</title>
-                <link>https://zhanghjno1.github.io/posts/md_notes/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/md_notes/</guid>
+                <link>https://5ybf.space/posts/md_notes/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/md_notes/</guid>
                 <pubDate>Fri, 06 Aug 2021 16:03:24 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -10092,7 +9926,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/note/">Note</category>
+                                    <category domain="https://5ybf.space/categories/note/">Note</category>
                                 
                             
                         
@@ -10102,7 +9936,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/tags/markdown/">markdown</category>
+                                    <category domain="https://5ybf.space/tags/markdown/">markdown</category>
                                 
                             
                         
@@ -10112,11 +9946,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Self Discipline</title>
-                <link>https://zhanghjno1.github.io/posts/self_discipline/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/self_discipline/</guid>
+                <link>https://5ybf.space/posts/self_discipline/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/self_discipline/</guid>
                 <pubDate>Sun, 01 Aug 2021 15:39:14 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -10136,7 +9968,7 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://zhanghjno1.github.io/categories/life/">Life</category>
+                                    <category domain="https://5ybf.space/categories/life/">Life</category>
                                 
                             
                         
@@ -10148,11 +9980,9 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)&lt;/p&gt;
         
             <item>
                 <title>Hello_world</title>
-                <link>https://zhanghjno1.github.io/posts/hello_world/</link>
-                <guid isPermaLink="true">https://zhanghjno1.github.io/posts/hello_world/</guid>
+                <link>https://5ybf.space/posts/hello_world/</link>
+                <guid isPermaLink="true">https://5ybf.space/posts/hello_world/</guid>
                 <pubDate>Sat, 31 Jul 2021 14:44:50 &#43;0800</pubDate>
-                
-                    <author>ybf486@gmail.com (zhanghj)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
