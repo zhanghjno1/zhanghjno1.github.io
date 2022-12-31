@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://5ybf.space/posts/2022/</loc>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
+  </url><url>
     <loc>https://5ybf.space/categories/</loc>
-    <lastmod>2022-12-23T19:38:38+08:00</lastmod>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/</loc>
-    <lastmod>2022-12-23T19:38:38+08:00</lastmod>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
+  </url><url>
+    <loc>https://5ybf.space/categories/life/</loc>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
+  </url><url>
+    <loc>https://5ybf.space/posts/</loc>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
+  </url><url>
+    <loc>https://5ybf.space/tags/summary/</loc>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
+  </url><url>
+    <loc>https://5ybf.space/tags/</loc>
+    <lastmod>2022-12-31T16:53:36+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/categories/note/</loc>
     <lastmod>2022-12-23T15:29:52+08:00</lastmod>
   </url><url>
-    <loc>https://5ybf.space/posts/</loc>
-    <lastmod>2022-12-23T19:38:38+08:00</lastmod>
-  </url><url>
     <loc>https://5ybf.space/tags/read/</loc>
-    <lastmod>2022-12-23T15:29:52+08:00</lastmod>
-  </url><url>
-    <loc>https://5ybf.space/tags/</loc>
     <lastmod>2022-12-23T15:29:52+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/posts/%E8%AF%BB%E6%B3%95%E6%B2%BB%E7%9A%84%E7%BB%86%E8%8A%82/</loc>
     <lastmod>2022-12-23T15:29:52+08:00</lastmod>
-  </url><url>
-    <loc>https://5ybf.space/categories/life/</loc>
-    <lastmod>2022-12-23T19:38:38+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/posts/%E5%8E%BB%E5%8C%97%E4%BA%AC/</loc>
     <lastmod>2022-12-23T19:38:38+08:00</lastmod>
@@ -162,7 +168,7 @@
     <lastmod>2022-03-30T20:46:04+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/posts/2021/</loc>
-    <lastmod>2022-04-01T16:34:40+08:00</lastmod>
+    <lastmod>2022-12-24T13:44:15+08:00</lastmod>
   </url><url>
     <loc>https://5ybf.space/posts/after_two_days/</loc>
     <lastmod>2022-04-01T16:33:05+08:00</lastmod>
