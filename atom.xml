@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-01-08T01:22:02&#43;08:00</updated>
+    <updated>2023-01-08T02:17:18&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -18,7 +18,7 @@
             <title type="text">添置新物</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E6%B7%BB%E7%BD%AE%E6%96%B0%E7%89%A9/" />
             <id>https://5ybf.space/posts/%E6%B7%BB%E7%BD%AE%E6%96%B0%E7%89%A9/</id>
-            <updated>2023-01-08T01:21:49&#43;08:00</updated>
+            <updated>2023-01-08T02:11:23&#43;08:00</updated>
             <published>2023-01-08T01:20:45&#43;08:00</published>
             <author>
                     <name>zhanghj</name>
