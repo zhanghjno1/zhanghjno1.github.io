@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-02-05T21:51:21&#43;08:00</updated>
+    <updated>2023-02-08T00:11:12&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,46 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">0208</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/0208/" />
+            <id>https://5ybf.space/posts/0208/</id>
+            <updated>2023-02-08T00:10:55&#43;08:00</updated>
+            <published>2023-02-08T00:06:52&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">「没做到前少说」</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/thought/" term="Thought" label="Thought" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/tags/impressions/" term="impressions" label="impressions" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">过年前后</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E8%BF%87%E5%B9%B4%E5%89%8D%E5%90%8E/" />
