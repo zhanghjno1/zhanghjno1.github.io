@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-02-08T00:11:12&#43;08:00</updated>
+    <updated>2023-03-28T23:40:56&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,38 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">在哈尔滨的周末</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E5%91%A8%E6%9C%AB/" />
+            <id>https://5ybf.space/posts/%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E5%91%A8%E6%9C%AB/</id>
+            <updated>2023-03-28T23:40:42&#43;08:00</updated>
+            <published>2023-03-28T23:38:05&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;老早就计划去哈尔滨一趟了，看了看日历，3/30这天是周四，卑微打工人没办法现场给过生日，遂决定25/26这俩天去，提前过生日吧～&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">0208</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/0208/" />
