@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-03-28T23:40:56&#43;08:00</updated>
+    <updated>2023-04-16T17:42:32&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,38 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">周末，睡觉</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%91%A8%E6%9C%AB%E7%9D%A1%E8%A7%89/" />
+            <id>https://5ybf.space/posts/%E5%91%A8%E6%9C%AB%E7%9D%A1%E8%A7%89/</id>
+            <updated>2023-04-16T17:42:20&#43;08:00</updated>
+            <published>2023-04-16T17:40:47&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zhanghjno1/hj.imgs/imgs232321681636467_.pic_hd.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/thought/" term="Thought" label="Thought" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">在哈尔滨的周末</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E5%91%A8%E6%9C%AB/" />
