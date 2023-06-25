@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-05-29T23:50:34&#43;08:00</updated>
+    <updated>2023-06-25T23:15:16&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,38 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">近期流水账</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E8%BF%91%E6%9C%9F%E6%B5%81%E6%B0%B4%E8%B4%A6/" />
+            <id>https://5ybf.space/posts/%E8%BF%91%E6%9C%9F%E6%B5%81%E6%B0%B4%E8%B4%A6/</id>
+            <updated>2023-06-25T23:15:12&#43;08:00</updated>
+            <published>2023-06-25T23:14:17&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;过完端午节了，记录下最近的记忆节点，日后回忆～&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">对于工作的感悟</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%AF%B9%E4%BA%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%84%9F%E6%82%9F/" />
