@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-10-30T02:06:21&#43;08:00</updated>
+    <updated>2023-12-01T01:19:44&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,38 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">十一月呐</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%8D%81%E4%B8%80%E6%9C%88%E5%91%90/" />
+            <id>https://5ybf.space/posts/%E5%8D%81%E4%B8%80%E6%9C%88%E5%91%90/</id>
+            <updated>2023-12-01T01:19:42&#43;08:00</updated>
+            <published>2023-11-30T22:18:38&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;今天周四，一般来说八点半后回，坐在工位上看着相册，又一个月过去了啊～&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十月</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%8D%81%E6%9C%88/" />
