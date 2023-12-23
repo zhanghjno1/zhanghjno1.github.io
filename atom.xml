@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2023-12-01T01:19:44&#43;08:00</updated>
+    <updated>2023-12-24T02:31:52&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,46 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">2023</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/2023/" />
+            <id>https://5ybf.space/posts/2023/</id>
+            <updated>2023-12-24T02:31:46&#43;08:00</updated>
+            <published>2023-12-24T02:30:53&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;一晃一年又过去了～&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/tags/summary/" term="summary" label="summary" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十一月呐</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E5%8D%81%E4%B8%80%E6%9C%88%E5%91%90/" />
