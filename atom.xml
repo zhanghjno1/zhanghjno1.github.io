@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">HJのBLOG</title>
     <subtitle type="html"></subtitle>
-    <updated>2024-09-04T11:42:23&#43;08:00</updated>
+    <updated>2024-09-30T23:56:21&#43;08:00</updated>
     <id>https://5ybf.space/</id>
     <link rel="alternate" type="text/html" href="https://5ybf.space/" />
     <link rel="self" type="application/atom&#43;xml" href="https://5ybf.space/atom.xml" />
@@ -14,6 +14,38 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">九月</title>
+            <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E4%B9%9D%E6%9C%88/" />
+            <id>https://5ybf.space/posts/%E4%B9%9D%E6%9C%88/</id>
+            <updated>2024-09-30T23:48:52&#43;08:00</updated>
+            <published>2024-09-30T23:48:25&#43;08:00</published>
+            <author>
+                    <name>zhanghj</name>
+                    <uri>https://5ybf.space/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;九月的主线是每天都有事干，甚至有些忙，没工作，无业人员逐渐开始&lt;strong&gt;焦虑&lt;/strong&gt;&lt;/p&gt;……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://5ybf.space/categories/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">这几个月</title>
             <link rel="alternate" type="text/html" href="https://5ybf.space/posts/%E8%BF%99%E5%87%A0%E4%B8%AA%E6%9C%88/" />
